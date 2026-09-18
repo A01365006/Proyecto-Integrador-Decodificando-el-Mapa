@@ -1,0 +1,535 @@
+﻿FID,My_FID6,Placename,Alt_names,ModernName,Confidence,Notes,Type,FID_Relate,Relation,My_FID6,FID_Relat2,Type2,References,Type_URL,X,Y,Time_span
+516,1,África,Africa,África,1, ,Continent,0, ,1,0, , , ,20.87464329,10.379393,https://en.wikipedia.org/wiki/16th_century
+334,2,Acahuitla,Acachiauhtlan,San Antonio Acachautla,1, ,Estancia,494, ,2,0, ,Acuña 1985;Ramirez 2006, ,-99.825,18.4282,https://en.wikipedia.org/wiki/16th_century
+398,3,Acamaluca del Sur,Acamalutla del Sur;Acamaluca;Acamalutla, ,2,Dissapeared,Cabecera,0, ,3,0, ,Acuña 1985;Garza 2009;Gerhard 1972;Google Earth, ,-99.96,17.0511,https://en.wikipedia.org/wiki/16th_century
+517,4,Asia, ,Asia,1, ,Continent,0, ,4,0, , , ,83.35171599,45.79773351,https://en.wikipedia.org/wiki/16th_century
+83,5,Acapetlahuaya, ,Acapetlahuaya,1, ,Sujeto,327,Depends on,5,0, ,Acuña 1985;INEGI: MEX_topoloc, ,-100.0740744,18.41887688,https://en.wikipedia.org/wiki/16th_century
+16,6,Acapiztla,Villa de Acapistla;Acapistla;Xihuiyacapitzalan;Xihui Yacapitzalan,Yecapixtla,1,Cuatro Villas,Villa,0, ,6,0, ,Acuña 1985;Google Maps;Tanck de Estrada 2005: Atlas 1800, ,-98.86533115,18.88263981,https://en.wikipedia.org/wiki/16th_century
+2,7,Acapulco, ,Acapulco De Juarez,1, ,Harbor,0, ,7,0, ,Acuña 1985;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=485,-99.88998311,16.86491458,https://en.wikipedia.org/wiki/16th_century
+518,8,Burgos, ,Burgos,1, , ,0, ,8,0, , , ,-3.70415472,42.34073826,https://en.wikipedia.org/wiki/16th_century
+31,9,Acatempa,Ocotempan,Acatempan,1, ,Estancia,494,Depends on,9,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.88194444,18.31777778,https://en.wikipedia.org/wiki/16th_century
+30,10,Acatlan, ,Acatlan,1, , ,0, ,10,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.43777778,20.14388889,https://en.wikipedia.org/wiki/16th_century
+306,11,Acatlan, ,Acatlán del Río,1, ,Sujeto,538, ,11,0, ,Acuña 1985;GeoNames_MX, ,-99.9011,17.9314,https://en.wikipedia.org/wiki/16th_century
+240,12,Acayahualco, ,Acayahualco,1, ,Estancia,513,Depends on,12,0, ,Acuña 1985;Atlas 2010, ,-99.481111,18.224444,https://en.wikipedia.org/wiki/16th_century
+519,13,Castilla, , ,1, , ,0, ,13,0, , , ,-4.036373825,39.02985948,https://en.wikipedia.org/wiki/16th_century
+10,14,Achichipico, ,Achichipico,1, ,Estancia,6,Depends on,14,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-98.82611111,18.94833333,https://en.wikipedia.org/wiki/16th_century
+520,15,Villa de Carrión, ,Carrión de los Condes,1, ,Villa,0, ,15,0, , , ,-4.603217647,42.33842136,https://en.wikipedia.org/wiki/16th_century
+521,16,Puerto de Palos, ,Palos de la Frontera,1, ,Port,0, ,16,0, , , ,-6.89652784,37.22993496,https://en.wikipedia.org/wiki/16th_century
+314,17,Acuacuyula, ,Coacuyula de Álvarez,1, ,Estancia,513, ,17,0, ,Acuña 1985;GeoNames_MX, ,-99.6311,18.0736,https://en.wikipedia.org/wiki/16th_century
+143,18,Acuitlapilco, ,Acuitlapilco,1, ,Barrio,676,Depends on,18,0, ,Acuña 1985;GeoNames_MX, ,-99.03427,19.76165,https://en.wikipedia.org/wiki/16th_century
+522,19,Perú, ,Perú,0, , ,0, ,19,0, , , ,-76.6674997,-9.325485278,https://en.wikipedia.org/wiki/16th_century
+234,20,Acxotla, ,Acelotla,1, ,Sujeto,648,Depends on,20,0, ,Acuña 1985;Google Maps, ,-98.65544,19.88164,https://en.wikipedia.org/wiki/16th_century
+242,21,Agacuatitlan,Ahuacatitlan;Agacuatitan;Aguacatitlan,Ahuacatitlan,1, ,Estancia,513,Depends on,21,0, ,Acuña 1985;Toponimos50k, ,-99.43081666,18.28083306,https://en.wikipedia.org/wiki/16th_century
+523,22,Sevilla, ,Sevilla,1, , ,0, ,22,0, , , ,-5.99702321,37.39052274,https://en.wikipedia.org/wiki/16th_century
+524,23,Chalco, ,Chalco,1, , ,0, ,23,0, ,Acuña 1986;Google Maps;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.89639959,19.26195825,https://en.wikipedia.org/wiki/16th_century
+303,24,Ahuacatitlan, ,Aguacatitla,1, ,Sujeto,538, ,24,0, ,Acuña 1985;GeoNames_MX, ,-100.19,17.866,https://en.wikipedia.org/wiki/16th_century
+139,25,Ahuacatitlan,Aguacatitlan,Ahuacatitlan,1, ,Estancia,494,Depends on,25,0, ,Acuña 1985;GeoNames_Mx, ,-99.82159,18.37703,https://en.wikipedia.org/wiki/16th_century
+477,26,Ahuaquauhtitlan,Ahuacatitlán;Aguacatlan, ,2,Dissapeared,Sujeto,117, ,26,0, ,Acuña 1985;Allocated by research, ,-98.6666,19.8999,https://en.wikipedia.org/wiki/16th_century
+352,27,Ahuehuepan, ,Barranca Ahuehuepan,1, ,River,1027, ,27,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=960,-98.97014,18.829,https://en.wikipedia.org/wiki/16th_century
+464,28,Ahuehuetitlan, , ,2,Montecillo,Sujeto,382, ,28,0, ,Acuña 1985;Rojas et al. 1999, ,-98.9081,19.4562,https://en.wikipedia.org/wiki/16th_century
+106,29,Ahuehuetlan,Ahuehuetla,Ahuehuetla,1, ,Estancia,494,Depends on,29,711,Sujeto,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.93833333,18.31222222,https://en.wikipedia.org/wiki/16th_century
+525,30,España, ,San Lorenzo del Escorial,1, , ,0, ,30,0, , , ,-4.148009986,40.58901942,https://en.wikipedia.org/wiki/16th_century
+430,31,Ahueyiztaco, , ,2,Dissapeared, ,223, ,31,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.6588,18.4841,https://en.wikipedia.org/wiki/16th_century
+156,32,Almolonga, , ,2, ,Valley,178,Contain,32,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=1197,-99.83589027,18.12437663,https://en.wikipedia.org/wiki/16th_century
+60,33,Almolonga, ,Almoloya,1, ,Sujeto,642,Depends on,33,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-100.1772222,18.3675,https://en.wikipedia.org/wiki/16th_century
+526,34,Europa, ,European Commission Headquarters,1, , ,0, ,34,0, , , ,4.382640682,50.84363906,https://en.wikipedia.org/wiki/16th_century
+527,35,Mechuacan, ,Tzintzuntzan,1, , ,0, ,35,0, ,Acuña 1987;Carrillo Cazares 1996, ,-101.573402,19.62326,https://en.wikipedia.org/wiki/16th_century
+340,36,Amatepeque, ,Amate de la Piedra,1, ,Sujeto,223, ,36,0, ,Acuña 1985;Ramirez 2006, ,-99.8791,18.4906,https://en.wikipedia.org/wiki/16th_century
+528,37,Zacatula, ,Zacatula,1, , ,0, ,37,0, ,Acuña 1987;Atlas 2010, ,-102.178056,18.006111,https://en.wikipedia.org/wiki/16th_century
+162,38,Amayucan,Amayuca,Amayuca,1, , ,0, ,38,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.79861111,18.72333333,https://en.wikipedia.org/wiki/16th_century
+498,39,Amecapalco, , ,2,Dissapeared. Located six leagues from the cabecera to the west,Estancia,513,Depends on,39,0, ,Acuña 1985;Vazquez 1965: 35, ,-99.76736,18.31968,https://en.wikipedia.org/wiki/16th_century
+163,40,Ameyalco,Santa María Magdalena Ameyalco,Iglesia Santa María Magdalena,1, ,Barrio,20157,Depends on,40,0, ,Acuña 1985;Google Maps, ,-98.84720784,19.38530749,https://en.wikipedia.org/wiki/16th_century
+159,41,Amilco, ,Amealco,1, ,Sujeto,223,Depends on,41,0, ,Acuña 1985;GeoNames MX, ,-99.71536,18.47746,https://en.wikipedia.org/wiki/16th_century
+529,42,Culhuacan,Culiacan,Culiacan Rosales,1, , ,0, ,42,0, ,Acuña 1986;Atlas 2010,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-107.393611,24.808611,https://en.wikipedia.org/wiki/16th_century
+351,43,Amilltzingo, ,Amilicingo,1, ,Estancia,360, ,43,0, ,Acuña 1985;GeoNames_MX, ,-98.7731,18.7435,https://en.wikipedia.org/wiki/16th_century
+394,44,Amoyoc,Tabuco,"Zona Arqueológica de Tabuco, Tuxpan",1, ,Harbor,0, ,44,0, ,Acuña 1985;Ochoa 2001;Google Earth,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=485,-97.336,20.9571,https://en.wikipedia.org/wiki/16th_century
+530,45,Las Indias,Nuevo Mundo,Las Indias Occidentales,1, , ,0, ,45,0, ,Allocated by research, ,-75.351208,19.24294408,https://en.wikipedia.org/wiki/16th_century
+531,46,Nueva España, ,México,1, , ,0, ,46,0, ,Allocated by research, ,-99.12477328,19.45212213,https://en.wikipedia.org/wiki/16th_century
+72,47,Anenecuilco, ,Anenecuilco,1, ,Cabecera,204,Depends on,47,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-98.99444444,18.76611111,https://en.wikipedia.org/wiki/16th_century
+377,48,Anenezco, ,San Francisco Molonco,1, ,Barrio,676, ,48,0, ,Acuña 1985;GeoNames_MX, ,-99.0656,19.7462,https://en.wikipedia.org/wiki/16th_century
+80,49,Angeles,Los Angeles;Puebla;Puebla de los Ángeles,Heroica Puebla de Zaragoza,1, ,City,0, ,49,0, ,Acuña 1985;Atlas 2010,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=202,-98.197222,19.043889,https://en.wikipedia.org/wiki/16th_century
+532,50,Nueva Galicia, , ,1,Central point, ,0, ,50,0, ,Allocated by research, ,-103.2352306,20.82646249,https://en.wikipedia.org/wiki/16th_century
+217,51,Apango, ,Apango,1, ,Sujeto,163,Depends on,51,0, ,Acuña 1985;Atlas 2010, ,-99.677222,18.235,https://en.wikipedia.org/wiki/16th_century
+89,54,Apazco, ,Apaxco De Ocampo,1, , ,0, ,54,0, ,Acuña 1985;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.17358823,19.97650189,https://en.wikipedia.org/wiki/16th_century
+185,55,Apaztla, ,Apaxtla,1, ,Sujeto,178,Depends on,55,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.93166667,18.12972222,https://en.wikipedia.org/wiki/16th_century
+188,56,Apetlanca, ,Apetlanca,1, ,Estancia,178,Depends on,56,0, ,Acuña 1985;Atlas 2010, ,-99.789167,18.2075,https://en.wikipedia.org/wiki/16th_century
+239,57,Apitzactli,Río Pequeño, ,1, ,River,538,Near,57,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=960,-100.0761475,17.96918408,https://en.wikipedia.org/wiki/16th_century
+533,58,Yucatán, ,Yucatán,1, , ,0, ,58,0, ,GoogleMaps, ,-89.36894743,19.19480396,https://en.wikipedia.org/wiki/16th_century
+310,59,Ascala, ,Atzcala,1, ,Estancia,513, ,59,0, ,Acuña 1985;GeoNames_MX, ,-99.6631,17.9778,https://en.wikipedia.org/wiki/16th_century
+226,61,Nuestra Señora de la Asunción, ,Iglesia de la Purisima Concepción,1, ,Church,513,Within,61,0, ,Acuña 1985;Google Maps,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=931,-99.46457649,18.28700377,https://en.wikipedia.org/wiki/16th_century
+271,62,Nuestra Señora de la Asunción, , ,2,Iglesia de Mayauala,Church,276,Within,62,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=931,-99.43446746,18.17338386,https://en.wikipedia.org/wiki/16th_century
+406,65,Atemantlan, , ,2,¿Tenantla?,Estancia,513, ,65,0, ,Acuña 1985;GeoNames_MX, ,-99.66667,17.8833,https://en.wikipedia.org/wiki/16th_century
+14,66,Atengo,Andehes,Atengo,1, , ,0, ,66,0, ,Acuña 1985;Google Maps;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.33294743,20.17646225,https://en.wikipedia.org/wiki/16th_century
+500,67,Atentzingo, , ,2,Dissapeared. Located  half a league to the West fromthe cabecera.,Estancia,513,Depends on,67,0, ,Acuña 1985;Vazquez 1965: 36, ,-99.495076,18.286626,https://en.wikipedia.org/wiki/16th_century
+501,68,Ateutzintlan, , ,2,Dissapeared. Located one league to the north from the cabecera,Estancia,513,Depends on,68,0, ,Acuña 1985;Vazquez 1965: 36, ,-99.460487,18.338785,https://en.wikipedia.org/wiki/16th_century
+363,69,Aticpac Tequilcapan, ,La Magdalena Atlicpac,1,"It may be a pueblo, estancia or barrio dependant on Chimalhuacan", ,20157, ,69,382, ,Acuña 1985;Gibson 1964,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.9557,19.3694,https://en.wikipedia.org/wiki/16th_century
+387,71,Atl Amaxac, ,"Escobillas, Hidalgo",1,According to Cempoala pintura, ,195, ,71,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.6023,20.0017,https://en.wikipedia.org/wiki/16th_century
+173,72,Atlahuimulco, ,Tlamomulco,1, ,Estancia,6,Depends on,72,0, ,Acuña 1985;Allocated by research, ,-98.90590024,18.8765289,https://en.wikipedia.org/wiki/16th_century
+315,73,Atlalac, ,Ojo de Agua,1, ,Estancia,178, ,73,0, ,Acuña 1985;Allocated by research, ,-99.79979,18.085,https://en.wikipedia.org/wiki/16th_century
+130,76,Atlatlahuca, ,Atlatlahucan,1, , ,0, ,76,0, ,Acuña 1985;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.89960396,18.9373464,https://en.wikipedia.org/wiki/16th_century
+0,77,Atlatlauhcan,Atlatlauhca,San Bartolome Atlatlahuca,1, , ,0, ,77,0, ,Acuña 1985;Google Maps;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.61271983,19.06955831,https://en.wikipedia.org/wiki/16th_century
+182,80,Atlitec, , ,2, ,Estancia,6,Depends on,80,0, ,Acuña 1985;Allocated by research, ,-98.80429772,18.91292687,https://en.wikipedia.org/wiki/16th_century
+65,81,Atlitlalaquia, ,Atitalaquia,1, , ,0, ,81,0, ,Acuña 1985;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.22141532,20.05834079,https://en.wikipedia.org/wiki/16th_century
+375,83,Atocan, ,Santiago Atocan,1, ,Barrio,676, ,83,0, ,Acuña 1985;GeoNames_MX, ,-99.0918,19.7405,https://en.wikipedia.org/wiki/16th_century
+38,84,Atocpan,Atocpa,Actopan,1, , ,0, ,84,0, ,Acuña 1985;Google Maps;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.94287937,20.26906587,https://en.wikipedia.org/wiki/16th_century
+125,85,Atotonilco, ,Atotonilco De Tula,1, , ,0, ,85,0, ,Acuña 1985;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.21997339,20.00937596,https://en.wikipedia.org/wiki/16th_century
+191,86,Atoyac, , ,1, ,River,0, ,86,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=960,-98.22430629,19.02985028,https://en.wikipedia.org/wiki/16th_century
+27,87,Atzala, ,Atzala,1, ,Sujeto,651,Depends on,87,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.66027778,18.51277778,https://en.wikipedia.org/wiki/16th_century
+502,89,Atzunpan, , ,2,Dissapeared. Located one league to the north from the cabecera,Estancia,513,Depends on,89,0, ,Acuña 1985;Vazquez 1965: 36, ,-99.467573,18.343307,https://en.wikipedia.org/wiki/16th_century
+37,91,Axacuba,Atacupa;Axacupan,Ajacuba,1, , ,0, ,91,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.11611111,20.08861111,https://en.wikipedia.org/wiki/16th_century
+18,92,Axuchitlan, ,Ajuchitlan Del Progreso,1, , ,0, ,92,0, ,Acuña 1985;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-100.4986174,18.15850658,https://en.wikipedia.org/wiki/16th_century
+472,93,Ayacac, , ,2,Barrio de Jaltenco,Barrio,676, ,93,0, ,Acuña 1985;Marcus et al. 1994: 78, ,-99.0886,19.7595,https://en.wikipedia.org/wiki/16th_century
+353,95,Ayagualco, ,Calderón,1, ,Estancia,204, ,95,0, ,Acuña 1985;Allocated by research, ,-98.9779,18.8575,https://en.wikipedia.org/wiki/16th_century
+183,96,Ayapango, , ,2, ,Estancia,6,Depends on,96,0, ,Acuña 1985;Allocated by research, ,-98.86078425,18.89235183,https://en.wikipedia.org/wiki/16th_century
+5,98,Ayotzingo, ,Ayotzingo,1, , ,0, ,98,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.92944444,19.20916667,https://en.wikipedia.org/wiki/16th_century
+93,99,Azcapotzalco, ,Azcapotzalco,1, , ,0, ,99,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.18333333,19.48277778,https://en.wikipedia.org/wiki/16th_century
+101,101,Azulaques, ,Azulaquez,1, ,Mining Camp,0, ,101,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=685,-99.80722222,18.57861111,https://en.wikipedia.org/wiki/16th_century
+150,103,Cacalotepec, ,Cacalotepec,1, ,Sujeto,538,Depends on,103,0, ,Acuña 1985;Atlas 2010, ,-100.008889,18.047222,https://en.wikipedia.org/wiki/16th_century
+437,104,Cacalotepetl, , ,2,No name available,Hill,531, ,104,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.1052,18.9347,https://en.wikipedia.org/wiki/16th_century
+179,106,Calalpa, ,Calalpa,2, ,Estancia,6,Depends on,106,0, ,Acuña 1985;Toponimos250k, ,-98.84496793,18.85667595,https://en.wikipedia.org/wiki/16th_century
+8,107,Calimayan, ,Calimaya,1, , ,0, ,107,0, ,Acuña 1985;Google Maps;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.61678797,19.16323659,https://en.wikipedia.org/wiki/16th_century
+468,109,Calpulpan Yacanqui, , ,2,Ruinas Casas Reales,Barrio,136, ,109,0, ,Acuña 1985;Elson 1999, ,-98.9765,19.629,https://en.wikipedia.org/wiki/16th_century
+144,110,Caltengo, ,Jaltenco,1, ,Barrio,676,Depends on,110,0, ,Acuña 1985;GeoNames_MX, ,-99.0939,19.75298,https://en.wikipedia.org/wiki/16th_century
+402,111,Camotepeque,Camotepeq, ,2,¿Camotlan?,Estancia,513, ,111,0, ,Acuña 1985;GeoNames_MX, ,-99.8167,17.5667,https://en.wikipedia.org/wiki/16th_century
+416,112,Camoxuchitlan, , ,2,Camoxitla,Estancia,157, ,112,0, ,Acuña 1985;Allocated by research, ,-99.68782,18.3397,https://en.wikipedia.org/wiki/16th_century
+94,113,Campeche, ,Barrio de San Francisco,1, , ,0, ,113,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-90.52472222,19.85166667,https://en.wikipedia.org/wiki/16th_century
+12,114,Capolalcolulco, ,Tehuehuetla,1, , ,0, ,114,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-100.4036111,17.82555556,https://en.wikipedia.org/wiki/16th_century
+447,115,Capultenpan,Calpulteupan, ,2,Barrio de San Bartolomé Atlatlahuca,Barrio,77, ,115,0, ,Acuña 1985;Allocated by research, ,-99.6137,19.0704,https://en.wikipedia.org/wiki/16th_century
+19,117,Cempoala, ,Zempoala,1,Congregación de Cempoala,Cabecera,0, ,117,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-98.66972222,19.915,https://en.wikipedia.org/wiki/16th_century
+197,118,Cerro Gordo,Sierra Gorda, ,1, ,Hill,151,Near,118,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.59898699,20.81446616,https://en.wikipedia.org/wiki/16th_century
+495,119,Ceuctlan,Ceutilan;Ciutlan,Zeutla,2, ,Estancia,800,Depends on,119,0, ,Acuña 1985;Allocated by research, ,-99.89889,17.274772,https://en.wikipedia.org/wiki/16th_century
+405,120,Chalchitepeque, , ,2,¿Chichiltepec?,Estancia,513, ,120,0, ,Acuña 1985;GeoNames_MX, ,-100.065,17.8075,https://en.wikipedia.org/wiki/16th_century
+195,121,Chalchiuhtepetl, ,Chalchiltepetl,1, ,Hill,531,Near,121,0, ,Acuña 1985;Toponimos50k,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.11013166,18.97548028,https://en.wikipedia.org/wiki/16th_century
+140,123,Chapultepeque, ,Chapultepec,1, ,Sujeto,579,Depends on,123,0, ,Acuña 1985;GeoNames_MX, ,-99.94584,17.8107,https://en.wikipedia.org/wiki/16th_century
+300,124,Chiantepeque, ,Paso Chantepec,1, ,Sujeto,579, ,124,0, ,Acuña 1985;GeoNames_MX, ,-100.0605,17.7676,https://en.wikipedia.org/wiki/16th_century
+35,126,Chiapa, ,Chapa,2, ,Estancia,494,Depends on,126,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.82388889,18.32555556,https://en.wikipedia.org/wiki/16th_century
+291,127,Chiapan, ,Chapa De Mota,1, , ,0, ,127,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.52638889,19.81527778,https://en.wikipedia.org/wiki/16th_century
+298,128,Chichihualco, ,Chichihualco,1, ,Estancia,513, ,128,0, ,Acuña 1985;GeoNames_MX, ,-99.6756,17.6567,https://en.wikipedia.org/wiki/16th_century
+124,131,Chicoaloapan, ,Chicoloapan,1, , ,0, ,131,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.90111111,19.41527778,https://en.wikipedia.org/wiki/16th_century
+444,134,Chicomocelotl, , ,2,No name available,Hill,531, ,134,0, ,"Acuña 1985;Brotherston, 1998: 92",https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.0949,19.0047,https://en.wikipedia.org/wiki/16th_century
+253,135,Chiconamelco,Chiconamel,Chiconamel,1, , ,0, ,135,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.45916667,21.22916667,https://en.wikipedia.org/wiki/16th_century
+117,136,Chiconauhtlan, ,Chiconautla,1, , ,0, ,136,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.005,19.63944444,https://en.wikipedia.org/wiki/16th_century
+208,137,Cerro Chiconquiyahuitl,Chiconquiyahuitl, ,2, ,Hill,195,Near,137,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-98.63353927,19.99641388,https://en.wikipedia.org/wiki/16th_century
+49,139,Chilacachapa, ,Chilacachapa,1, ,Estancia,157,Depends on,139,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.76083333,18.27222222,https://en.wikipedia.org/wiki/16th_century
+96,140,Chilapan, ,Chilapa,1, , ,0, ,140,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.17666667,17.59861111,https://en.wikipedia.org/wiki/16th_century
+367,141,Chimalapa,Chimalpa,San Sebastián Chimalpa,1,"It may be a pueblo, estancia or barrio dependant on Chimalhuacan", ,382, ,141,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.9531,19.3818,https://en.wikipedia.org/wiki/16th_century
+165,143,Chinameca,Las Chinamecas,Chinameca,1, ,Estancia,204,Depends on,143,0, ,Acuña 1985;Google Maps;Atlas 2010, ,-98.999167,18.623056,https://en.wikipedia.org/wiki/16th_century
+7,146,Cholula, ,Cholula De Rivadabia,1, ,City,0, ,146,0, ,Acuña 1985;Google Maps;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=202,-98.30177942,19.05826813,https://en.wikipedia.org/wiki/16th_century
+289,147,Serranía Cihuacayo,Cihuacayo, ,2, ,Mountain Range,195,Near,147,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=708,-98.62313909,20.00765743,https://en.wikipedia.org/wiki/16th_century
+209,148,Cihuacyocan,Cihuacayo;Cihuayuca, ,2, ,Hill,195,Near,148,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-98.62140444,20.01743948,https://en.wikipedia.org/wiki/16th_century
+84,151,Cimapan,Real de San Juan;Minas de Cimapan;Santiago Cimapan,Zimapan,1, ,Mining Camp,0, ,151,0, ,Acuña 1985;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=685,-99.38276541,20.7377532,https://en.wikipedia.org/wiki/16th_century
+485,152,Citepec, , ,2,Dissapeared, ,0, ,152,0, ,Acuña 1985;Ballesteros 2005,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.7018,20.0208,https://en.wikipedia.org/wiki/16th_century
+107,153,Citlaltomahua,Citlaltomahuacan, ,2, , ,0, ,153,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-100.0795773,17.32313891,https://en.wikipedia.org/wiki/16th_century
+372,154,Coacalco, ,San Francisco Coacalco,1, ,Cabecera,0, ,154,0, ,Acuña 1985;Gerhard 1972;Google Earth, ,-99.1043,19.6289,https://en.wikipedia.org/wiki/16th_century
+75,155,Coacalco, ,Coacalco,1, ,Barrio,189,Depends on,155,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.09305556,19.63333333,https://en.wikipedia.org/wiki/16th_century
+73,156,Coaixtlahuaca, ,Coixtlahuaca,1, , ,0, ,156,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-97.32361111,17.72361111,https://en.wikipedia.org/wiki/16th_century
+193,157,Coatepec, ,Coatepec De Los Costales,1, , ,0, ,157,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.72111111,18.34027778,https://en.wikipedia.org/wiki/16th_century
+371,158,Coatlalpan, ,Guadalupe Victoria,1, ,Barrio,189, ,158,0, ,Acuña 1985;GeoNames_MX, ,-99.0659,19.6195,https://en.wikipedia.org/wiki/16th_century
+54,160,Coatlichan, ,Coatlinchan,1, , ,0, ,160,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.87222222,19.44888889,https://en.wikipedia.org/wiki/16th_century
+164,162,Cocoyoque,Cocoyoc,Cocoyoc,1, ,Estancia,204,Depends on,162,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-98.98194444,18.88416667,https://en.wikipedia.org/wiki/16th_century
+118,163,Cocula, ,Cocula,1, ,Cabecera,0, ,163,0, ,Acuña 1985;Google Maps;INEGI: MEX_topoloc, ,-99.66115319,18.23591324,https://en.wikipedia.org/wiki/16th_century
+243,167,Colotlan, ,Colotlán,1, ,Estancia,513,Depends on,167,0, ,Acuña 1985;Toponimos50k, ,-99.44852749,18.23488222,https://en.wikipedia.org/wiki/16th_century
+212,168,Coyoacan,Villa de Coyuacan;Coyuacan,Coyoacán,1, ,Villa,0, ,168,0, ,Acuña 1985;Atlas 2010, ,-99.161944,19.35,https://en.wikipedia.org/wiki/16th_century
+392,169,Coyotepec, ,Cerro del Caballo,2,Atengo and Mizquiahuala pintura, ,0, ,169,0, ,Acuña 1985;Murrieta et al. 2019,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.1035,20.1893,https://en.wikipedia.org/wiki/16th_century
+21,170,Coyuca, ,Coyuca,1, , ,0, ,170,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-100.0875,17.00722222,https://en.wikipedia.org/wiki/16th_century
+131,171,Coyutla, ,San Pedro Coyutla,1, , ,0, ,171,0, ,Acuña 1985;Atlas 2010,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.43,21.223333,https://en.wikipedia.org/wiki/16th_century
+503,173,Cuamuchititlan, , ,2,Dissapeared. Located 4 and a half leagues to the south from the cabecera,Estancia,513,Depends on,173,0, ,Acuña 1985;Vazquez 1965: 36, ,-99.56263,18.114396,https://en.wikipedia.org/wiki/16th_century
+504,174,Cuapanahuasco, , ,2,Dissapeared. Located half league to the south from the cabecera,Estancia,513,Depends on,174,0, ,Acuña 1985;Vazquez 1965: 36, ,-99.461104,18.26743,https://en.wikipedia.org/wiki/16th_century
+338,175,Cuatlayacac, ,Los Coatlix,1, ,Sujeto,715, ,175,0, ,Acuña 1985;Ramirez 2006, ,-99.8999,18.4855,https://en.wikipedia.org/wiki/16th_century
+82,177,Cuesalingo,Cuezalingo,Huazalingo,1, , ,0, ,177,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.5075,20.97972222,https://en.wikipedia.org/wiki/16th_century
+85,178,Cuezala, ,Cuetzala Del Progreso,1, ,Pueblo,223,Depends on,178,0, ,Acuña 1985;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.83291316,18.13580978,https://en.wikipedia.org/wiki/16th_century
+256,182,Cuitlahuac, ,Tláhuac,1, , ,0, ,182,0, ,Acuña 1985;Atlas 2010,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.004722,19.270556,https://en.wikipedia.org/wiki/16th_century
+339,186,Cuxmatlipan,Cuzamatlipan,Amate Amarillo,1, ,Sujeto,715, ,186,0, ,Acuña 1985;Ramirez 2006, ,-99.84396,18.49,https://en.wikipedia.org/wiki/16th_century
+116,187,Cuzamala, ,Cutzamala,1, , ,0, ,187,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-100.5783333,18.46472222,https://en.wikipedia.org/wiki/16th_century
+58,189,Ecatepeque,San Cristóbal Ecatepec;Ecatepeque San Cristóbal,Ecatepec De Morelos,1, ,Estancia,136,Depends on,189,0, ,Acuña 1985;Allocated by research, ,-99.04541058,19.60235642,https://en.wikipedia.org/wiki/16th_century
+175,189,Ecatepeque, ,Capilla de San Marcos,2, ,Estancia,6,Depends on,189,0, ,Acuña 1985;Allocated by research, ,-98.86258681,18.87665689,https://en.wikipedia.org/wiki/16th_century
+441,190,Cerro Ecatepetl,Ecatepetl, ,2, ,Hill,531, ,190,0, ,Acuña 1985;Brotherston 1998: 92,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.0724,18.9912,https://en.wikipedia.org/wiki/16th_century
+145,191,Ecatitlan, ,Ecatitlán,1, ,Barrio,676,Depends on,191,0, ,Acuña 1985;GeoNames_MX, ,-99.08333,19.75,https://en.wikipedia.org/wiki/16th_century
+440,192,Cerro Ecauhtlan,Ecauhtlan, ,2, ,Hill,531, ,192,0, ,Acuña 1985;Brotherston 1998: 92,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.0903,18.9681,https://en.wikipedia.org/wiki/16th_century
+262,193,Eloxuchitlan,Elosuchitlan;Xocotitlan;Santo Domingo;Santo Domingo Xocotitlan,Ocotitlan,1, ,Estancia,531,Depends on,193,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.06083333,19.01333333,https://en.wikipedia.org/wiki/16th_century
+207,194,Epazoyo, ,Cerro Grande,2, ,Hill,195,Near,194,0, ,Acuña 1985;Toponimos50k,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-98.64857722,20.03803306,https://en.wikipedia.org/wiki/16th_century
+102,195,Epazoyucan,Epazoyuca;Tomazquitla,Epazoyucan,1, ,Cabecera,117,Depends on,195,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-98.63527778,20.01805556,https://en.wikipedia.org/wiki/16th_century
+267,197,Minas de Esquimilpa,Esquimilpa;Minas de Izquimilpa;Izquimilpa;Minas de Izquimilpan;Izquimilpan,Ixmiquilpan,1, ,Mining Camp,0, ,197,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=685,-99.21861111,20.48222222,https://en.wikipedia.org/wiki/16th_century
+361,198,Sierra de la Estrella, ,Cerro de la Estrella,1,"13 leagues far. This toponym is problematic. It could refer to the Cerro de la Estrella, but is not 13 leagues far from the jurisdiction. The other thing is that the text mentios a river crossing the jurisdiction associated to the ""Sierra de la Estrella",Mountain Range,136, ,198,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=708,-99.0899,19.3458,https://en.wikipedia.org/wiki/16th_century
+264,200,Grande Rio de Ohuapan,Grande Rio, ,1, ,River,312,Near,200,0, ,Acuña 1985,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=960,-99.4427302,17.95567915,https://en.wikipedia.org/wiki/16th_century
+148,203,Huauhtlan,Huauhtlapan;Huauhtlalpan,Huautla,1, ,Sujeto,538,Depends on,203,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-100.1019444,17.8525,https://en.wikipedia.org/wiki/16th_century
+128,204,Huaxtepec,Villa de Huaxtepeque del Marquesado del Valle;Huaxtepeque;Atliquipac;Zaqualpa,Oaxtepec,1,Cuatro Villas,Villa,0, ,204,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-98.97027778,18.90638889,https://en.wikipedia.org/wiki/16th_century
+41,206,Huexotzingo, ,Huejotzingo,1, , ,0, ,206,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.40611111,19.16,https://en.wikipedia.org/wiki/16th_century
+4,208,Huexutla,Huxutla,Huejutla,1, ,Cabecera,0, ,208,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-98.42,21.14027778,https://en.wikipedia.org/wiki/16th_century
+408,210,Hueytepeque, , ,2,Dissapeared,Estancia,513, ,210,0, ,Acuña 1985;Allocated by research, ,-99.4967,18.0294,https://en.wikipedia.org/wiki/16th_century
+479,211,Hueytlalpa Amanalli, , ,2,Dissapeared, ,0, ,211,0, ,Acuña 1985;Ballesteros 2005,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=525,-98.7094,19.9598,https://en.wikipedia.org/wiki/16th_century
+194,212,Cerro Huilotepeque,Huilotepeque,Huilotepec (Tezontle),1, ,Hill,531,Near,212,0, ,Acuña 1985;Toponimos50k,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.07303334,18.97282306,https://en.wikipedia.org/wiki/16th_century
+478,213,Huitznahuac, , ,2,Dissapeared,Sujeto,117, ,213,0, ,Acuña 1985;Allocated by research, ,-98.6442,19.9051,https://en.wikipedia.org/wiki/16th_century
+462,214,Huitznahuac, , ,2,Dissapeared, ,20157, ,214,382, ,Acuña 1985;Gibson 1964,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.9708,19.4239,https://en.wikipedia.org/wiki/16th_century
+369,215,Huitznahuac Santo Domingo,Santo Domingo Huitznahuac,Santo Domingo,1,"It may be a pueblo, estancia or barrio dependant on Chimalhuacan", ,20157, ,215,382, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.9431,19.4093,https://en.wikipedia.org/wiki/16th_century
+343,216,Huitzquila, ,Huixquila,1, ,Sujeto,223, ,216,0, ,Acuña 1985;Ramirez 2006, ,-99.7917,18.5228,https://en.wikipedia.org/wiki/16th_century
+403,217,Huitztitla, , ,2,¿Huixilac? (Huitzilac),Estancia,513, ,217,0, ,Acuña 1985;GeoNames_MX, ,-99.9227,17.7063,https://en.wikipedia.org/wiki/16th_century
+87,218,Huitzuco,Ilzuco;Izuco,Huitzuco,1, ,Cabecera,0, ,218,0, ,Acuña 1985;Google Maps;Tanck de Estrada 2005: Atlas 1800, ,-99.33418089,18.30597377,https://en.wikipedia.org/wiki/16th_century
+373,219,Huixachtiquipal, ,La Magdalena Huizachitla,1, ,Barrio,189, ,219,0, ,Acuña 1985;Lopez Quezada 2002, ,-99.089,19.6337,https://en.wikipedia.org/wiki/16th_century
+214,220,Ichcapaneca, ,Ixcapaneca,1, ,Sujeto,715,Depends on,220,0, ,Acuña 1985;Allocated by research, ,-99.920559,18.497305,https://en.wikipedia.org/wiki/16th_century
+433,221,Ichcatepeque, , ,2,Dissapeared,Estancia,204, ,221,0, ,Acuña 1985;Allocated by research, ,-98.9886,18.5792,https://en.wikipedia.org/wiki/16th_century
+157,222,Ichcatepeque, ,Ixcatepec,1, ,Sujeto,642,Depends on,222,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-100.0758333,18.28333333,https://en.wikipedia.org/wiki/16th_century
+11,223,Ichcateupan, ,Ixcateopan,1,Corregimiento too,Cabecera,0, ,223,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.79361111,18.50305556,https://en.wikipedia.org/wiki/16th_century
+486,226,Iczocalla, , ,2,Dissapeared, ,0, ,226,0, ,Acuña 1985;Ballesteros 2005,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.7517,20.0225,https://en.wikipedia.org/wiki/16th_century
+265,227,Ilamatepeque,Ilamatepec, ,1,"Cerro de cal""""",Hill,204,Near,227,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.00895364,18.88576874,https://en.wikipedia.org/wiki/16th_century
+401,228,Sierra Ilamatlatzalan,Ilamatlatzalan, ,2, ,Mountain Range,153, ,228,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=708,-99.9408,17.358,https://en.wikipedia.org/wiki/16th_century
+435,230,Ilucan, , ,2,Dissapeared,Estancia,6, ,230,0, ,Acuña 1985;Allocated by research, ,-98.7985,18.7908,https://en.wikipedia.org/wiki/16th_century
+292,231,Islas del Poniente Filipinas, ,Filipinas,1, ,Island,0, ,231,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=575,121.0099516,14.5990217,https://en.wikipedia.org/wiki/16th_century
+506,232,Istululutla, , ,2,Dissapeared. Located 15 leagues to the west from the cabecera,Estancia,513,Depends on,232,0, ,Acuña 1985;Vazquez 1965: 38, ,-100.098842,18.251255,https://en.wikipedia.org/wiki/16th_century
+309,234,Itzcoatzingo, ,San Marcos Oacatzingo,1, ,Estancia,513, ,234,0, ,Acuña 1985;GeoNames_MX, ,-99.4817,17.9344,https://en.wikipedia.org/wiki/16th_century
+211,235,Cerros Itztli,Itztli, ,2, ,Mountain Range,195,Near,235,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=708,-98.54823887,20.08402632,https://en.wikipedia.org/wiki/16th_century
+294,236,Itztontepeque, ,Izotepec,1, ,Estancia,513, ,236,0, ,Acuña 1985;GeoNames_MX, ,-99.95444,17.585,https://en.wikipedia.org/wiki/16th_century
+360,238,Ixtlahuacan, ,Ixtlahuacan,1,"It may be a pueblo, estancia or barrio dependant on Chimalhuacan", ,20157, ,238,382, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.9977,19.34,https://en.wikipedia.org/wiki/16th_century
+511,239,Ixtlahuacan de Cocula,Ixtlahuacan, ,2,Dissapeared. Located half league to the east from the cabecera,Sujeto,163,Depends on,239,0, ,Acuña 1985;Vazquez 1965: 40, ,-99.638854,18.237559,https://en.wikipedia.org/wiki/16th_century
+347,240,Ixtlahuacan, ,Ixtlahuaca,1, ,Estancia,513, ,240,0, ,Acuña 1985;GeoNames_MX, ,-99.4411,18.5322,https://en.wikipedia.org/wiki/16th_century
+69,244,Iztapaluca, ,Ixtapaluca,1, , ,0, ,244,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.88222222,19.31861111,https://en.wikipedia.org/wiki/16th_century
+337,246,Iztapan de Oztuma,Iztapan,Ixtepec de San Simón Oztuma,1, ,Sujeto,327, ,246,0, ,Acuña 1985;GeoNames_MX, ,-100.09704,18.4767,https://en.wikipedia.org/wiki/16th_century
+13,247,Salinas de Iztapan,Iztapan,Ixtapan De La Sal,1,Salinas,Sujeto,715,Depends on,247,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.67527778,18.84416667,https://en.wikipedia.org/wiki/16th_century
+275,249,Salinas de Iztayutla,Iztayutla;Ixtlayotla;Iztayutla,Ixtayotla,1,Estanzuela as well,Salt pan,579,Depends on,249,0, ,Acuña 1985;Atlas 2010,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=686,-100.097778,17.919722,https://en.wikipedia.org/wiki/16th_century
+397,253,China, ,Beijing,1, ,Kingdom,0, ,253,0, ,Acuña 1985;Google Maps,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=843,116.3910143,39.92383583,https://en.wikipedia.org/wiki/16th_century
+290,254,La Florida, , ,1, , ,0, ,254,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-81.54681046,27.95827914,https://en.wikipedia.org/wiki/16th_century
+220,258,La Veracruz,Veracruz,La Antigua,1,Coordinates on Cortes' house, ,0, ,258,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-96.32115988,19.32160162,https://en.wikipedia.org/wiki/16th_century
+272,259,Laguna Grande de México, , ,1, ,Lake,0, ,259,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=596,-99.02290458,19.48152069,https://en.wikipedia.org/wiki/16th_century
+266,261,Limpia Concepción de Nuestra Señora, ,Parroquia inmaculada Concepción de María,1, ,Barrio,163,Depends on,261,0, ,Acuña 1985;Google Maps, ,-99.65975188,18.23376089,https://en.wikipedia.org/wiki/16th_century
+452,262,Los Reyes Suchitenco,Reyes Xuchitengo, ,2,Dissapeared,Estancia,389, ,262,0, ,Acuña 1985;Blanton 1972: 168, ,-98.8562,19.3391,https://en.wikipedia.org/wiki/16th_century
+346,264,Maatenco,Ma atenco,San Pedro Atenco,1, ,Sujeto,715, ,264,0, ,Acuña 1985;Ramirez 2006, ,-99.8018,18.5287,https://en.wikipedia.org/wiki/16th_century
+203,265,Macuextepetlan, ,Macustepetla,1, ,Estancia,208,Depends on,265,0, ,Acuña 1985;NGA_GNS, ,-98.480638,21.12295,https://en.wikipedia.org/wiki/16th_century
+34,267,Malinalco, ,Malinalco,1, , ,0, ,267,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.49472222,18.94833333,https://en.wikipedia.org/wiki/16th_century
+237,270,Mar del Sur, , ,2, ,Sea,0, ,270,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=1015,-97.03376054,14.27338344,https://en.wikipedia.org/wiki/16th_century
+236,271,Mar Océano, , ,2, ,Sea,0, ,271,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=1015,-94.64480019,20.00849701,https://en.wikipedia.org/wiki/16th_century
+448,274,Matlatzincas, , ,2,Barrio de San Bartolomé Atlatlahuca,Barrio,77, ,274,0, ,Acuña 1985;Allocated by research, ,-99.6096,19.0706,https://en.wikipedia.org/wiki/16th_century
+301,275,Matza ixtlahuacan, ,Ixtlahuaca,1, ,Sujeto,579, ,275,0, ,Acuña 1985;GeoNames_MX, ,-99.9922,17.7822,https://en.wikipedia.org/wiki/16th_century
+103,276,Mayanala,Mayauala,Mayanalan,1, ,Cabecera,0, ,276,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.43388889,18.1725,https://en.wikipedia.org/wiki/16th_century
+155,279,Metlapa, ,Metlapa,1, ,Sujeto,711,Depends on,279,0, ,Acuña 1985;Atlas 2010, ,-99.608056,18.309444,https://en.wikipedia.org/wiki/16th_century
+384,281,Mexotxoc,Mexoxoctla,Santa María Tecajete,1, ,Sujeto,648, ,281,0, ,Acuña 1985;Ballesteros 2005: 63, ,-98.5944,19.9395,https://en.wikipedia.org/wiki/16th_century
+127,282,Sierra de Meztitlan, ,Metztitlan,2, ,Mountain Range,0, ,282,0, ,Acuña 1985;Allocated by Research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=708,-98.78189192,20.56866748,https://en.wikipedia.org/wiki/16th_century
+326,284,Miahualtepeque,Miahualtepec,Miahuatepec,1, ,Sujeto,642, ,284,0, ,Acuña 1985;GeoNames_MX, ,-100.2181,18.3819,https://en.wikipedia.org/wiki/16th_century
+325,285,Miahuatepec, ,Miahuatepec,1, ,Sujeto,5, ,285,327, ,Acuña 1985;GeoNames_MX, ,-100.2179,18.3815,https://en.wikipedia.org/wiki/16th_century
+285,286,Sierra Micaxuchitlan,Suchiaca Micaxuchitlan;Micaxuchitlan, ,2, ,Mountain Range,77,Near,286,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=708,-99.61161653,19.03933529,https://en.wikipedia.org/wiki/16th_century
+376,287,Milltengo, ,San Pedro Miltenco,1, ,Sujeto,676, ,287,0, ,Acuña 1985;GeoNames_MX, ,-99.0723,19.7415,https://en.wikipedia.org/wiki/16th_century
+57,288,Mizquiahuala, ,Mixquiahuala,1, , ,0, ,288,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.21305556,20.23111111,https://en.wikipedia.org/wiki/16th_century
+463,290,Mototepec de los Reyes,Reyes Mototepec, ,2,Los Reyes Tlamimilolpan,Sujeto,160, ,290,0, ,Acuña 1985;GeoNames_MX, ,-98.8781,19.4246,https://en.wikipedia.org/wiki/16th_century
+305,291,Muyutla, ,Mayotla,1, ,Sujeto,538, ,291,0, ,Acuña 1985;GeoNames_MX, ,-100.0833,17.925,https://en.wikipedia.org/wiki/16th_century
+269,293,Nahualan, , ,1,Mouth and beach,Spring,0, ,293,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=1067,-102.1312568,17.94964451,https://en.wikipedia.org/wiki/16th_century
+354,295,Nepantla, ,San Miguel Nepantla,1, ,Sujeto,588, ,295,0, ,Acuña 1985;GeoNames_MX, ,-98.8399,18.9804,https://en.wikipedia.org/wiki/16th_century
+187,297,Nexapan, ,Nejapa,1, ,Estancia,55,Depends on,297,0, ,Acuña 1985;GeoNames_MX, ,-99.90257,18.18664,https://en.wikipedia.org/wiki/16th_century
+133,300,Nextlalpan, ,Nextlalpan,1, ,Barrio,676,Depends on,300,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.0725,19.74027778,https://en.wikipedia.org/wiki/16th_century
+399,301,Nextlan,Nexatl, ,2,Tributario del río Papagayo,River,47, ,301,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=960,-99.5555,17.1306,https://en.wikipedia.org/wiki/16th_century
+388,302,Nopalapan, ,San Miguel Nopalapa,1, ,Sujeto,598, ,302,0, ,Acuña 1985;GeoNames_MX, ,-98.7147,20.019,https://en.wikipedia.org/wiki/16th_century
+63,303,Nuchtepeque,Nutepeque,Noxtepec,1, , ,0, ,303,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.69416667,18.66138889,https://en.wikipedia.org/wiki/16th_century
+270,304,Nuestra Señora, , ,2, ,Chaplaincy,20157,Within,304,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=931,-98.84705145,19.38514824,https://en.wikipedia.org/wiki/16th_century
+134,308,Ocotlan, ,Ocotlan,1, , ,0, ,308,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.47388889,18.14805555,https://en.wikipedia.org/wiki/16th_century
+110,309,Ocuila, ,Ocuilan,1, , ,0, ,309,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.41638889,18.97944444,https://en.wikipedia.org/wiki/16th_century
+329,310,Ocuilixtlahuacan, ,Hacienda de Ocuilixtlahuacán,1, ,Sujeto,711, ,310,0, ,Acuña 1985;Atlas 2010, ,-99.686389,18.405,https://en.wikipedia.org/wiki/16th_century
+97,311,Ocuituco, ,Ocuituco,1, , ,0, ,311,0, ,Acuña 1985;Google Maps;Google Earth;unikloc10gw,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.773959,18.877773,https://en.wikipedia.org/wiki/16th_century
+15,312,Ohuapan,Ohuapa,Oapan,1, , ,0, ,312,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.43722222,17.95222222,https://en.wikipedia.org/wiki/16th_century
+169,313,Olintepeque,Olintepec,Olintepec,1, ,Cabecera,204,Depends on,313,0, ,Acuña 1985;Atlas 2010, ,-98.987222,18.740278,https://en.wikipedia.org/wiki/16th_century
+488,315,Ometepec, , ,2,Cerros Cuates,Hill,0, ,315,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-98.7008,20.0305,https://en.wikipedia.org/wiki/16th_century
+318,316,Omitlatzala,Umitlatzala;Umitlazala,Tecuantlatzala,2, ,Sujeto,642, ,316,0, ,Acuña 1985;GeoNames_MX, ,-100.0369,18.2242,https://en.wikipedia.org/wiki/16th_century
+61,318,Otumba, ,Otumba,1, , ,0, ,318,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.75472222,19.69694444,https://en.wikipedia.org/wiki/16th_century
+356,319,Cerro Ozomaquila,Ozomaquila,Cerro La Ventana,1, ,Hill,531, ,319,0, ,Acuña 1985;Brotherston 1998: 92,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.0411,18.9841,https://en.wikipedia.org/wiki/16th_century
+333,321,Cerro Oztomatongo,Oztomatongo,Cerro Oxtuma,1, ,Hill,327, ,321,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-100.0464,18.417,https://en.wikipedia.org/wiki/16th_century
+40,322,Oztotitlan, ,Oxtotitlan,1, ,Estancia,55,Depends on,322,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.93305556,18.18861111,https://en.wikipedia.org/wiki/16th_century
+273,323,Oztotlatlauhcan,Oztotlatlauca, ,2,“Cueva bermeja”,Estancia,195,Depends on,323,0, ,Acuña 1985;Google Maps;Google Earth;unikloc10gw, ,-98.65297915,19.92783443,https://en.wikipedia.org/wiki/16th_century
+71,326,Oztoyucan,Oztoyuca,San Antonio Oxtoyuca,1, ,Estancia,195,Depends on,326,0, ,Acuña 1985;Google Maps;Google Earth;unikloc10gw, ,-98.670318,19.927475,https://en.wikipedia.org/wiki/16th_century
+64,327,Oztuma, ,Ostuma,1, , ,0, ,327,0, ,Acuña 1985;HGIS de las Indias,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-100.0797711,18.5257805,https://en.wikipedia.org/wiki/16th_century
+223,328,Ozumatlan, ,Ozomatlan,1, ,Sujeto,312,Depends on,328,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.33944444,17.925,https://en.wikipedia.org/wiki/16th_century
+255,329,Minas de Pachuca, ,Pachuca de Soto,1, ,Mining Camp,0, ,329,0, ,Acuña 1985;Atlas 2010,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=685,-98.736944,20.122222,https://en.wikipedia.org/wiki/16th_century
+328,330,Pahualapa,Xahualapan;Xahualapa,Sayulapan,1, ,Sujeto,327, ,330,0, ,Acuña 1985;Ramirez 2006, ,-99.90616,18.3885,https://en.wikipedia.org/wiki/16th_century
+3,331,Pahuatlan, ,Pahuatlan,1, , ,0, ,331,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.15,20.27416667,https://en.wikipedia.org/wiki/16th_century
+332,332,Pahuiya, ,San Martín Pachivia,1, ,Sujeto,223, ,332,0, ,Acuña 1985;Parra 1992, ,-99.7868,18.4099,https://en.wikipedia.org/wiki/16th_century
+316,334,Palula, ,Palula,1, ,Estancia,513, ,334,0, ,Acuña 1985;GeoNames_MX, ,-99.5401,18.097,https://en.wikipedia.org/wiki/16th_century
+206,335,Panacaztla,Panacaztlan,Panacaxtlán,1, ,Estancia,208,Depends on,335,0, ,Acuña 1985;Atlas 2010, ,-98.455278,21.149167,https://en.wikipedia.org/wiki/16th_century
+322,336,Pantlan, ,Pantla del Zapotal,1, ,Estancia,513, ,336,0, ,Acuña 1985;GeoNames_MX, ,-99.5622,18.2631,https://en.wikipedia.org/wiki/16th_century
+59,337,Pánuco, ,Pánuco,1, , ,0, ,337,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.181111,22.053611,https://en.wikipedia.org/wiki/16th_century
+17,338,Pazulco,Teopazulco,Pazulco,1, ,Estancia,6,Depends on,338,0, ,Acuña 1985;Google Maps;Tanck de Estrada 2005: Atlas 1800, ,-98.90964696,18.87816116,https://en.wikipedia.org/wiki/16th_century
+186,339,Petlacala, ,Petlacala,1, ,Estancia,55,Depends on,339,0, ,Acuña 1985;GeoNames_MX, ,-99.88494,18.18639,https://en.wikipedia.org/wiki/16th_century
+114,340,Pezoapan, ,Pezuapan,1, ,Sujeto,538,Depends on,340,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-100.1491667,18.06861111,https://en.wikipedia.org/wiki/16th_century
+99,341,Piaztlan, ,Piaxtla,1, , ,0, ,341,0, ,Acuña 1985;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.25240486,18.20036947,https://en.wikipedia.org/wiki/16th_century
+218,343,Pipihilco, ,Apipilulco,1, ,Sujeto,163,Depends on,343,0, ,Acuña 1985;Atlas 2010, ,-99.670833,18.196944,https://en.wikipedia.org/wiki/16th_century
+158,344,Pipincatla, ,Pipincatla,1, ,Sujeto,223,Depends on,344,0, ,Acuña 1985;unikloc10gw, ,-99.80688747,18.44929581,https://en.wikipedia.org/wiki/16th_century
+330,345,Pixahua,Alpixauhyan,Alpixafia,1, ,Estancia,494, ,345,0, ,Acuña 1985;GeoNames_MX;Ramirez 2006, ,-99.902,18.4092,https://en.wikipedia.org/wiki/16th_century
+241,346,Pochontzingo, ,Pololcingo,1, ,Estancia,513,Depends on,346,0, ,Acuña 1985;Atlas 2010, ,-99.391944,18.280556,https://en.wikipedia.org/wiki/16th_century
+311,347,Poctepec,Potepec,Zacapoxtepec,1, ,Sujeto,538, ,347,0, ,Acuña 1985;GeoNames_MX, ,-99.9621,18.0189,https://en.wikipedia.org/wiki/16th_century
+278,348,Volcán Popocatepetl,Popocatepetl,Popocatepetl,1, ,Volcano,0, ,348,0, ,Acuña 1985;Google Maps,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=1209,-98.62376841,19.02317214,https://en.wikipedia.org/wiki/16th_century
+423,349,Posquila,Ixpuquilan, ,2,Dissapeared,Estancia,494, ,349,0, ,Acuña 1985;Ramirez 2006, ,-99.8209,18.3521,https://en.wikipedia.org/wiki/16th_century
+395,351,Puchtlan, ,Poxtla,1, ,Estancia,208, ,351,0, ,Acuña 1985;Allocated by research, ,-98.5768,21.1372,https://en.wikipedia.org/wiki/16th_century
+77,353,Pungaravato, ,Ciudad Altamirano,1, , ,0, ,353,0, ,Acuña 1985;Atlas 2010,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-100.668056,18.362222,https://en.wikipedia.org/wiki/16th_century
+484,354,Quachalac,Quachalcac, ,2,Dissapeared,Barrio,195, ,354,0, ,Acuña 1985;Allocated by research, ,-98.632,20.02,https://en.wikipedia.org/wiki/16th_century
+313,355,Quanmuchiahualco,Quamuchiahualco,Comichahualco,1, ,Estancia,178, ,355,0, ,Acuña 1985;GeoNames_MX, ,-99.8661,18.0527,https://en.wikipedia.org/wiki/16th_century
+201,356,Quatlapanca, , ,1, ,Hill,20157,Near,356,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-98.86879181,19.38498985,https://en.wikipedia.org/wiki/16th_century
+168,357,Quauhatuxco,Cuahutlixco;Quauhatlixco,Cuahutlixco,1, ,Cabecera,204,Depends on,357,0, ,Acuña 1985;Zona_Arq_INAH, ,-98.93642498,18.8300561,https://en.wikipedia.org/wiki/16th_century
+1,358,Quauhnahuac,Cuernavaca;Villa de Quauhnahuac,Cuernavaca,1, ,Villa,0, ,358,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.23416667,18.91861111,https://en.wikipedia.org/wiki/16th_century
+443,359,Cerro Quauhtepeque,Quauhtepeque, ,2,No name available,Hill,531, ,359,0, ,Acuña 1985;Brotherston 1998: 92,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.1046,18.999,https://en.wikipedia.org/wiki/16th_century
+167,360,Quauhtla,Amillpas;Amillpas de Huaxtepeque;Amilpas;Amjllpas,Cuautla,1, ,Pueblo,204,Depends on,360,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.95472222,18.81166667,https://en.wikipedia.org/wiki/16th_century
+409,361,Quauhtla, , ,2,Dissapeared,Estancia,55, ,361,0, ,Acuña 1985;Allocated by research, ,-99.9238,18.1199,https://en.wikipedia.org/wiki/16th_century
+249,363,Cerro Quauhtomaltepetl,Cerro Quauhtomatepec;Quauhtomatepec;Quauhtomaltepetl, ,1, ,Hill,223,Near,363,0, ,Acuña 1985,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.7783642,18.5125253,https://en.wikipedia.org/wiki/16th_century
+344,364,Quauhxinacuila,Quauhxonecuila,Cuajinicuila,1, ,Sujeto,715, ,364,0, ,Acuña 1985;Ramirez 2006, ,-99.9345,18.523,https://en.wikipedia.org/wiki/16th_century
+358,365,Quauhxumulco, ,Coajumulco,1, ,Sujeto,588, ,365,0, ,Acuña 1985;Barlow 1992, ,-99.205,19.0343,https://en.wikipedia.org/wiki/16th_century
+335,366,Quauhyabatitlan,Quauhyahualtitlan;Quauhyabatlitlan,Callehualtitla,1, ,Sujeto,5, ,366,327, ,Acuña 1985;GeoNames_MX, ,-100.0908,18.4544,https://en.wikipedia.org/wiki/16th_century
+36,368,Quiyahuac, , ,2, ,Sujeto,117,Depends on,368,0, ,Acuña 1985, ,-98.68798301,19.90699088,https://en.wikipedia.org/wiki/16th_century
+497,372,Real de Abajo, ,Real del Valle,1, ,Mining Camp,0, ,372,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=685,-98.7539,20.08636,https://en.wikipedia.org/wiki/16th_century
+199,373,Real del  Monte,Minas del Monte;Monte,Verdosas,1, ,Mining Camp,151,Depends on,373,0, ,Acuña 1985;Google Maps;Google Earth;unikloc10gw,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=685,-99.409202,20.82558,https://en.wikipedia.org/wiki/16th_century
+108,374,Río de Anecuilco, , ,1, ,River,47,Near,374,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=960,-98.97224856,18.77019725,https://en.wikipedia.org/wiki/16th_century
+308,375,Rio Grande de  Mezcala, ,Río Balsas,1, ,River,722, ,375,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=960,-99.5835,17.9339,https://en.wikipedia.org/wiki/16th_century
+238,376,Río Hueyatl,Hueyatl;Río Grande, ,1, ,River,538,Near,376,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=960,-100.0631085,17.9849813,https://en.wikipedia.org/wiki/16th_century
+244,377,Sacacuyoc, ,Sacacoyuca,1, ,Estancia,513,Depends on,377,0, ,Acuña 1985;GeoNames_MX, ,-99.55,18.23333,https://en.wikipedia.org/wiki/16th_century
+224,378,San Agustín, ,San Agustin Oapan,1, ,Church,312,Within,378,0, ,Acuña 1985;Google Maps,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=931,-99.43787119,17.95229818,https://en.wikipedia.org/wiki/16th_century
+153,379,San Agustín Atlapulco,Atlapulco San Agustín,San Agustín Atlapulco,1,"It may be a pueblo, estancia or barrio dependant on Chimalhuacan", ,382,Depends on,379,0, ,Acuña 1985;Toponimos50k,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.95474222,19.39119417,https://en.wikipedia.org/wiki/16th_century
+259,380,San Andrés Acuecueyecan,Acuecueyecan;Acacueyecan;San Andrés,San Andrés de la Cal,1, ,Estancia,531,Depends on,380,0, ,Acuña 1985;Google Maps;Google Earth;unikloc10gw, ,-99.113461,18.955093,https://en.wikipedia.org/wiki/16th_century
+453,381,San Andrés Chiauhtla, , ,2,Dissapeared,Estancia,389, ,381,0, ,"Acuña 1985;Blanton, 1972: 168", ,-98.8524,19.3408,https://en.wikipedia.org/wiki/16th_century
+104,382,Chimalhuacan Atenco,Chimalhuacan;Chimalhuacan Toyac;Chimalhuacan Atoyac;San Andrés Chimalhuacan,Palacio Municipal de Chimalhuacán,1, ,Cabecera,157,Depends on,382,0, ,Acuña 1985;Google Maps;Atlas 2010, ,-98.945278,19.416667,https://en.wikipedia.org/wiki/16th_century
+319,388,San Francisco, ,Barrio San Francisco,1,"According to the text, there is a church with the advocation of San Francisco",Barrio,163, ,388,0, ,Acuña 1985;GeoNames_MX, ,-99.6607,18.2398,https://en.wikipedia.org/wiki/16th_century
+227,389,San Francisco Aquauhtla,Aquauhtla,Acuautla,1, ,Cabecera,20157,Depends on,389,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-98.85861111,19.34416667,https://en.wikipedia.org/wiki/16th_century
+507,390,San Francisco, , ,2,Dissapeared. Located one league to the north from the cabecera,Sujeto,312,Depends on,390,0, ,Acuña 1985;Vazquez 1965: 39, ,-99.43548,17.98326,https://en.wikipedia.org/wiki/16th_century
+427,391,San Francisco, , ,2,Dissapeared,Sujeto,473, ,391,0, ,Acuña 1985;GeoNames_MX, ,-99.3899,18.3634,https://en.wikipedia.org/wiki/16th_century
+225,395,San Juan, ,Parroquia de San Juan,1, ,Church,711,Within,395,0, ,Acuña 1985;Google Maps,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=931,-99.53423074,18.34959098,https://en.wikipedia.org/wiki/16th_century
+510,396,San Juan Ixco,Ixco San Juan, ,2,Dissapeared. Located 3 leagues to the south from the cabecera,Sujeto,312,Depends on,396,0, ,Acuña 1985;Vazquez 1965: 39, ,-99.367911,17.812351,https://en.wikipedia.org/wiki/16th_century
+261,397,San Juan Tepecuitlapilco,San Juan;Tepecuitlapilco,Tlacotenco,1, ,Estancia,531,Depends on,397,0, ,Acuña 1985;GeoNames_MX, ,-99.0933,19.01845,https://en.wikipedia.org/wiki/16th_century
+365,398,San Juan Tlachichco, ,San Juan,1, ,Sujeto,20157, ,398,0, ,Acuña 1985;GeoNames_MX, ,-98.8503,19.3762,https://en.wikipedia.org/wiki/16th_century
+426,399,San Juan, , ,2,Dissapeared,Sujeto,473, ,399,276, ,Acuña 1985;GeoNames_MX, ,-99.3982,18.3562,https://en.wikipedia.org/wiki/16th_century
+368,401,San Lorenzo Mizquititlan, ,San Lorenzo Metzquititlán,1,"It may be a pueblo, estancia or barrio dependant on Chimalhuacan", ,20157, ,401,382, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.9754,19.404,https://en.wikipedia.org/wiki/16th_century
+450,402,San Lorenzo, , ,2,¿La cruz de San Lorenzo?,Sujeto,77, ,402,0, ,Acuña 1985;GeoNames_MX, ,-99.5689,19.0889,https://en.wikipedia.org/wiki/16th_century
+418,403,San Lucas, , ,2,Dissapeared,Sujeto,473, ,403,0, ,Acuña 1985;GeoNames_MX, ,-99.3686,18.3448,https://en.wikipedia.org/wiki/16th_century
+420,406,San Mateo, , ,2,Dissapeared,Sujeto,473, ,406,0, ,Acuña 1985;GeoNames_MX, ,-99.3447,18.3485,https://en.wikipedia.org/wiki/16th_century
+457,407,San Mateo Oztotlitic, , ,2,Dissapeared,Barrio,424, ,407,0, ,Acuña 1985;Hodge 1994: 49, ,-98.8349,19.3672,https://en.wikipedia.org/wiki/16th_century
+419,408,San Miguel, , ,2,¿Parroquia San Francisco de Asís?,Church,711, ,408,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=931,-99.5394,18.3457,https://en.wikipedia.org/wiki/16th_century
+413,409,San Miguel, , ,2,Dissapeared,Church,513, ,409,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=931,-99.4636,18.2845,https://en.wikipedia.org/wiki/16th_century
+461,410,San Miguel Tepetlapan,Tepetlapa, ,2,Dissapeared,Cabecera,20157, ,410,0, ,Acuña 1985;Hodge 1994: 48;GeoNames_MX, ,-98.8775,19.4034,https://en.wikipedia.org/wiki/16th_century
+451,411,San Miguel, , ,2,¿San Miguel Banderas?,Sujeto,77, ,411,0, ,Acuña 1985;GeoNames_MX, ,-99.6526,19.1081,https://en.wikipedia.org/wiki/16th_century
+425,412,San Miguel, , ,2,Dissapeared,Sujeto,473, ,412,0, ,Acuña 1985;GeoNames_MX, ,-99.39,18.3554,https://en.wikipedia.org/wiki/16th_century
+471,413,San Miguel, , ,2,¿Ejido San Miguel?,Barrio,477, ,413,0, ,Acuña 1985;GeoNames_MX, ,-98.9492,19.717,https://en.wikipedia.org/wiki/16th_century
+508,414,San Pablo, , ,2,Dissapeared. Located half a league to the west from Mayanala,Sujeto,276,Depends on,414,0, ,Acuña 1985;Vazquez 1965: 39, ,-99.45911,18.17186,https://en.wikipedia.org/wiki/16th_century
+415,415,San Pedro, , ,2,¿Parroque San Gerarado?,Church,711, ,415,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=931,-99.5372,18.3386,https://en.wikipedia.org/wiki/16th_century
+459,416,San Pedro Chalman, , ,2,Dissapeared,Estancia,20157, ,416,443, ,Acuña 1985;SMA 1972: 160, ,-98.8822,19.391,https://en.wikipedia.org/wiki/16th_century
+189,417,San Pedro, ,San Pedro Tlanixco,1, ,Sujeto,77,Depends on,417,0, ,Acuña 1985;Google Maps, ,-99.65251045,19.06172322,https://en.wikipedia.org/wiki/16th_century
+25,418,San Pedro, ,San Pedro (Venustiano Carranza),1, , ,151,Depends on,418,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.33333333,20.7525,https://en.wikipedia.org/wiki/16th_century
+422,419,San Pedro, , ,2,Dissapeared,Sujeto,473, ,419,0, ,Acuña 1985;GeoNames_MX, ,-99.3649,18.3499,https://en.wikipedia.org/wiki/16th_century
+152,421,San Sebastián Chimalapan,San Sebastián Chimalpa;Chimalpan San Sebastián,San Sebastián Chimalpa,1,"It may be a pueblo, estancia or barrio dependant on Chimalhuacan", ,382,Depends on,421,0, ,Acuña 1985;Atlas 2010,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.9525,19.381389,https://en.wikipedia.org/wiki/16th_century
+509,422,San Sebastián, , ,2,Dissapeared. Located half a league to the south from Mayanala,Sujeto,276,Depends on,422,0, ,Acuña 1985;Vazquez 1965: 39, ,-99.433337,18.149274,https://en.wikipedia.org/wiki/16th_century
+460,423,San Sebastián Xocoatlauhco, , ,2,Dissapeared,Sujeto,20157, ,423,0, ,Acuña 1985;Gibson 1964: map 3, ,-98.8432,19.3994,https://en.wikipedia.org/wiki/16th_century
+364,424,Santa Ana Tetitlan, ,Santa Ana,1, ,Cabecera,20157, ,424,0, ,Acuña 1985;Carrasco 1996;GeoNames_MX, ,-98.8569,19.3699,https://en.wikipedia.org/wiki/16th_century
+470,425,Santa Ana, , ,2,¿Ejido Santa Ana?,Barrio,477, ,425,0, ,Acuña 1985;GeoNames_MX, ,-98.98888,19.7106,https://en.wikipedia.org/wiki/16th_century
+260,427,Santa Catalina Zacatepetlac,Santa Catalina;Zacatepetlac,Santa Catarina,1, ,Estancia,531,Depends on,427,0, ,Acuña 1985;Google Maps;Google Earth;unikloc10gw, ,-99.141446,18.972114,https://en.wikipedia.org/wiki/16th_century
+228,428,Santa Cruz, , ,2, ,Church,20157,Near,428,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=931,-98.87485272,19.37555683,https://en.wikipedia.org/wiki/16th_century
+446,432,Santa María, , ,2,Barrio de San Bartolomé Atlatlahuca,Barrio,77, ,432,0, ,Acuña 1985;GeoNames_MX, ,-99.6085,19.0675,https://en.wikipedia.org/wiki/16th_century
+229,433,Santa María, ,Iglesia Santa María Nativitas,1, ,Church,66,Within,433,0, ,Acuña 1985;Google Maps,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=931,-99.33217646,20.17682656,https://en.wikipedia.org/wiki/16th_century
+230,434,Santa María, , ,1, ,Estancia,288,Depends on,434,0, ,Acuña 1985;Rodriguez 2001: 110, ,-99.20405,20.26065833,https://en.wikipedia.org/wiki/16th_century
+263,436,Santa Maria Magdalena Amatlan,Amatlan;Santa María Magdalena,Amatlán de Quetzalcóatl,1, ,Estancia,531,Depends on,436,0, ,Acuña 1985;Atlas 2010, ,-99.036111,18.978889,https://en.wikipedia.org/wiki/16th_century
+362,438,Santa María Magdalena Aticpac, ,Magdalena Atlicpac,1,"It may be a pueblo, estancia or barrio dependant on Chimalhuacan", ,20157, ,438,382, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.9517,19.3683,https://en.wikipedia.org/wiki/16th_century
+276,441,Santiago, ,Iglesia de Santiago Apóstol,1, ,Church,218,Within,441,0, ,Acuña 1985;Google Maps,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=931,-99.33479065,18.30612194,https://en.wikipedia.org/wiki/16th_century
+458,443,Santiago Quatlapanca,Quatlapanca, ,2,Dissapeared,Cabecera,20157, ,443,0, ,Acuña 1985;Hodge 1994: 51;GeoNames_MX, ,-98.872,19.3895,https://en.wikipedia.org/wiki/16th_century
+95,444,Santiago Quauhtlalpa, ,Cuautlalpan,1, ,Sujeto,160,Depends on,444,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-98.90138889,19.43138889,https://en.wikipedia.org/wiki/16th_century
+393,446,Santiago, ,Santiago Acayutlan,1, ,Church,66, ,446,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=931,-99.2923,20.1967,https://en.wikipedia.org/wiki/16th_century
+449,447,Santiago, , ,2,Dissapeared,Sujeto,77, ,447,0, ,Acuña 1985;Allocated by research, ,-99.6322,19.0816,https://en.wikipedia.org/wiki/16th_century
+424,449,Santiago, , ,2,Dissapeared,Sujeto,473, ,449,276, ,Acuña 1985;GeoNames_MX, ,-99.3428,18.355,https://en.wikipedia.org/wiki/16th_century
+231,451,Santo Domingo, ,República Dominicana/Haiti,1, , ,0, ,451,0, ,Acuña 1985;Google Maps,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-71.03738513,19.01809264,https://en.wikipedia.org/wiki/16th_century
+454,453,Santo Domingo Tlalanoztoc, , ,2,Dissapeared,Estancia,389, ,453,0, ,Acuña 1985;Blanton 1972: 168, ,-98.8524,19.341,https://en.wikipedia.org/wiki/16th_century
+455,456,Santo Tomás Texcaltitlan, , ,2,Dissapeared,Estancia,389, ,456,0, ,Acuña 1985;Blanton 1972: 168, ,-98.8469,19.3419,https://en.wikipedia.org/wiki/16th_century
+287,457,Sierra Nevada Iztlaccihuatl,Iztlaccihuatl;Iztaccihuatl,Iztaccihuatl,1, ,Mountain Range,0, ,457,0, ,Acuña 1985;Toponimos50k,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=708,-98.64196194,19.17833389,https://en.wikipedia.org/wiki/16th_century
+286,458,Sierra Nevada de Toluca,Nevada de Toluca,Nevado de Toluca,1, ,Mountain Range,0, ,458,0, ,Acuña 1985;Google Maps,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=708,-99.76671266,19.10200606,https://en.wikipedia.org/wiki/16th_century
+126,459,Suchiaca, ,San Juan Xochiaca,1, , ,0, ,459,0, ,Acuña 1985;Google Maps;Google Earth;unikloc10gw,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.540358,19.010894,https://en.wikipedia.org/wiki/16th_century
+170,460,Suchimillcatzingo, ,Xochimilcatzingo,2, ,Cabecera,240,Depends on,460,0, ,Acuña 1985;Google Maps, ,-98.96455783,18.86527334,https://en.wikipedia.org/wiki/16th_century
+78,461,Suchimillco, ,Xochimilco,1, , ,0, ,461,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.1025,19.2625,https://en.wikipedia.org/wiki/16th_century
+48,463,Suchitlan, ,Xochitlan,1, ,Estancia,6,Depends on,463,0, ,Acuña 1985;Google Maps;Tanck de Estrada 2005: Atlas 1800, ,-98.81219067,18.88877663,https://en.wikipedia.org/wiki/16th_century
+62,465,Tabasco, ,Tabasco,1, , ,0, ,465,0, ,Acuña 1985;Atlas 2010,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-92.919167,17.987778,https://en.wikipedia.org/wiki/16th_century
+90,466,Tacuba, ,Tacuba,1, , ,0, ,466,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.18638889,19.4575,https://en.wikipedia.org/wiki/16th_century
+39,467,Tahuizan, ,Jaltocan,2, , ,0, ,467,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.53777778,21.13333333,https://en.wikipedia.org/wiki/16th_century
+492,468,Tamalol, , ,2,Dissapeared,Pueblo,208, ,468,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.5247,21.1327,https://en.wikipedia.org/wiki/16th_century
+22,469,Tampico, ,Pueblo Viejo  (Ciudad Cuauhtemoc),1, , ,0, ,469,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-97.83472222,22.18333333,https://en.wikipedia.org/wiki/16th_century
+45,470,Tamuxunchale, ,Tamazunchale,1, , ,0, ,470,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.79166667,21.26111111,https://en.wikipedia.org/wiki/16th_century
+232,471,Minas de Tasco, ,Taxco,1, ,Mining Camp,0, ,471,0, ,Acuña 1985;Google Maps;Google Earth;unikloc10gw,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=685,-99.600478,18.559217,https://en.wikipedia.org/wiki/16th_century
+67,473,Taxmalaca,Tasmalaca;Tlachmalacac,Tlaxmalac,1, ,Cabecera,0, ,473,0, ,Acuña 1985;INEGI: MEX_topoloc, ,-99.41546227,18.36075489,https://en.wikipedia.org/wiki/16th_century
+491,474,Tazotuhco,Tançetuco;Tançituco, ,2,Dissapeared,Pueblo,208, ,474,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.4836,20.9829,https://en.wikipedia.org/wiki/16th_century
+205,475,Teacal, ,Teacal,1, ,Estancia,208,Depends on,475,0, ,Acuña 1985;Atlas 2010, ,-98.446667,21.159444,https://en.wikipedia.org/wiki/16th_century
+489,476,Teapetlatl, , ,2,Dissapeared, ,0, ,476,0, ,Acuña 1985;Ballesteros 2005,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.7321,20.1697,https://en.wikipedia.org/wiki/16th_century
+129,477,Tecama, ,Tecamac,1, ,Sujeto,136,Depends on,477,0, ,Acuña 1985;INEGI: MEX_topoloc, ,-98.96862303,19.71408079,https://en.wikipedia.org/wiki/16th_century
+176,478,Tecaxeque, ,Tecajec,1, ,Estancia,6,Depends on,478,0, ,Acuña 1985;Google Maps;Tanck de Estrada 2005: Atlas 1800, ,-98.8156805,18.79802938,https://en.wikipedia.org/wiki/16th_century
+490,479,Tecciztlan, , ,2,Dissapeared, ,0, ,479,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.305,20.2399,https://en.wikipedia.org/wiki/16th_century
+391,481,Techimalli, ,Cerro San Cristóbal,1,Cempoala pintura,Pueblo,0, ,481,0, ,Acuña 1985;Ballesteros 2005,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.75,20.1667,https://en.wikipedia.org/wiki/16th_century
+177,482,Tecocuzpan, , ,2, ,Estancia,6,Depends on,482,0, ,Acuña 1985;Allocated by research, ,-98.8425,18.788056,https://en.wikipedia.org/wiki/16th_century
+219,484,Tecomatlan, ,Tecomatlán,1, ,Sujeto,163,Depends on,484,0, ,Acuña 1985;Atlas 2010, ,-99.693056,18.294167,https://en.wikipedia.org/wiki/16th_century
+355,485,Tecomaxuchco, ,Tecomaxuco,1, ,Sujeto,588, ,485,0, ,Acuña 1985;GeoNames_MX, ,-98.7612,18.9818,https://en.wikipedia.org/wiki/16th_century
+245,486,Tecoyametlan, ,Tecoyametla,1, ,Estancia,513,Depends on,486,0, ,Acuña 1985;NGA_GNS, ,-99.501234,18.208354,https://en.wikipedia.org/wiki/16th_century
+146,487,Tecpa, ,Tepa,1, ,Sujeto,117,Depends on,487,0, ,Acuña 1985;GeoNames_MX, ,-98.69046,19.91162,https://en.wikipedia.org/wiki/16th_century
+123,489,Tecpatepec,Tecapatepeque,Tepatepec,1, , ,0, ,489,0, ,Acuña 1985;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.09073588,20.24515802,https://en.wikipedia.org/wiki/16th_century
+120,490,Tecpilpan, ,Zapotlan,1,Congregación de Cempoala,Cabecera,117, ,490,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-98.71527778,19.87472222,https://en.wikipedia.org/wiki/16th_century
+512,492,Tecuatzingo, , ,2,Dissapeared. Located 2 leagues to the west from the cabecera,Sujeto,163,Depends on,492,0, ,Acuña 1985;Vazquez 1965: 41, ,-99.740085,18.242645,https://en.wikipedia.org/wiki/16th_century
+79,494,Teloloapan, ,Teloloapan,1, , ,0, ,494,0, ,Acuña 1985;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.87399535,18.36742759,https://en.wikipedia.org/wiki/16th_century
+138,496,Temazcalapan, ,Temascalapa,1, , ,0, ,496,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.90111111,19.82694444,https://en.wikipedia.org/wiki/16th_century
+100,497,Temazcaltepeque, ,Temascaltepec De Gonzalez,1, , ,0, ,497,0, ,Acuña 1985;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-100.0452551,19.04545634,https://en.wikipedia.org/wiki/16th_century
+389,498,Temeztla, ,Mineral de la Reforma,1,Cempoala pintura,Pueblo,0, ,498,0, ,Acuña 1985;Ballesteros 2005,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.7215,20.0459,https://en.wikipedia.org/wiki/16th_century
+487,500,Tenanco, , ,2,Cerro Chililete,Hill,0, ,500,0, ,Acuña 1985;Ballesteros 2005,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-98.6903,20.0267,https://en.wikipedia.org/wiki/16th_century
+374,501,Tenanco,Tenango,San Juan Atenanco,1, ,Barrio,676, ,501,0, ,Acuña 1985;Marcus et al. 1994: 78, ,-99.0834,19.738,https://en.wikipedia.org/wiki/16th_century
+336,502,Tenango de Ichcateupan,Atenango;Tenango,Tenanguillo de las Cañas,1, ,Barrio,223, ,502,0, ,Acuña 1985;Parra 1992, ,-99.8288,18.4752,https://en.wikipedia.org/wiki/16th_century
+348,503,Tenanpulco, ,Tepatulco,1, ,Sujeto,651, ,503,0, ,Acuña 1985;GeoNames_MX, ,-99.9097,18.5368,https://en.wikipedia.org/wiki/16th_century
+68,504,Tenantzinco, ,Tenancingo,1, , ,0, ,504,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.59055556,18.96083333,https://en.wikipedia.org/wiki/16th_century
+359,506,Tennenecuilco,San Gregorio Tennecuilco,San Gregorio,1,"It may be a pueblo, estancia or barrio dependant on Chimalhuacan", ,20157, ,506,382, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.9603,19.3364,https://en.wikipedia.org/wiki/16th_century
+76,507,Tenochtitlan,México,Tenochtitlan,1, , ,0, ,507,0, ,Acuña 1985;Google Maps;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.1313711,19.43492025,https://en.wikipedia.org/wiki/16th_century
+483,508,Tepan,Tepa, ,2,Dissapeared,Barrio,195, ,508,0, ,Acuña 1985;GeoNames_MX, ,-98.6393,20.0189,https://en.wikipedia.org/wiki/16th_century
+250,509,Cerro Tepantepetl,Tepantepetl, ,2, ,Hill,157,Depends on,509,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.71734818,18.33372536,https://en.wikipedia.org/wiki/16th_century
+122,510,Tepeaca,Tepeyacac,Tepeaca,1, , ,0, ,510,0, ,Acuña 1985;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-97.90341921,18.96581899,https://en.wikipedia.org/wiki/16th_century
+52,511,Tepeapulco, ,Tepeapulco,1, , ,0, ,511,0, ,Acuña 1985;Google Maps;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.55250082,19.78528155,https://en.wikipedia.org/wiki/16th_century
+378,512,Tepechichilco, ,Tepechichilco,1, ,Pueblo,547, ,512,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.5633,19.8731,https://en.wikipedia.org/wiki/16th_century
+50,513,Tepecuacuilco,Tepeacuilco,Tepecoacuilco De Trujano,1, ,Cabecera,0, ,513,0, ,Acuña 1985;INEGI: MEX_topoloc, ,-99.46492016,18.28674641,https://en.wikipedia.org/wiki/16th_century
+53,514,Laguna de Tepecuacuilco, , ,2, ,Lake,0, ,514,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=596,-99.45714488,18.30693706,https://en.wikipedia.org/wiki/16th_century
+204,516,Tepehuacan, ,Tehuetlan,1, ,Estancia,208,Depends on,516,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-98.50777778,21.0525,https://en.wikipedia.org/wiki/16th_century
+20,517,Tepemayalco, ,San Lucas Tepemajalco,1, , ,0, ,517,0, ,Acuña 1985;Google Maps,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.56954625,19.16137528,https://en.wikipedia.org/wiki/16th_century
+380,518,Tepemayalco, ,San Juan Tepemazalco,1,Cempoala pintura,Pueblo,0, ,518,0, ,Acuña 1985;Ballesteros 2005,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.6713,19.9041,https://en.wikipedia.org/wiki/16th_century
+366,519,Peñon de Tepepuli,Tepepuli,Peñón del Marqués; Cerro del Peñón,1, ,Hill,382, ,519,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.02953,19.3786,https://en.wikipedia.org/wiki/16th_century
+119,520,Tepetistla, ,Tepetixtla,1, , ,0, ,520,0, ,Acuña 1985;Google Maps;Google Earth;unikloc10gw,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-100.120285,17.214306,https://en.wikipedia.org/wiki/16th_century
+284,522,Sierra Tepetl suchitl,Tepetlsuchitl;Tepetl suchitl, ,1, ,Mountain Range,77,Near,522,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=708,-99.62811559,19.07144952,https://en.wikipedia.org/wiki/16th_century
+513,523,Tepetlalpan, , ,2,Dissapeared. Located 2 leagues to the west from the cabecera,Sujeto,163,Depends on,523,0, ,Acuña 1985;Vazquez 1965: 41, ,-99.74898,18.232694,https://en.wikipedia.org/wiki/16th_century
+88,524,Tepeyahualco, ,Tepeyahualco,1, , ,0, ,524,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.67083333,19.84583333,https://en.wikipedia.org/wiki/16th_century
+282,525,Tepeyti,Tepeitic,Tepeitic,1, ,Estancia,638,Depends on,525,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.29027778,20.24,https://en.wikipedia.org/wiki/16th_century
+456,526,Tepopotoniloya,Tepotoniloya, ,2,Dissapeared, ,20157, ,526,382, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.9548,19.3621,https://en.wikipedia.org/wiki/16th_century
+432,527,Cerro Tepopozquauhtla,Tepopozquauhtla;Tepopozquautl, ,2,Sierra de Taxco,Hill,651, ,527,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.8723,18.5587,https://en.wikipedia.org/wiki/16th_century
+312,528,Teposonalco, ,Tepozonalco,1, ,Estancia,513, ,528,0, ,Acuña 1985;GeoNames_MX, ,-99.3399,18.0272,https://en.wikipedia.org/wiki/16th_century
+412,529,Tepozonaltzingo, , ,2,Tepozonalquillo,Estancia,55, ,529,0, ,Acuña 1985;GeoNames_MX, ,-99.9033,18.2703,https://en.wikipedia.org/wiki/16th_century
+357,530,Tepuztecatl, ,Tepozteco,1, ,Hill,531, ,530,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.1016,19.0008,https://en.wikipedia.org/wiki/16th_century
+137,531,Tepuztlan,Villa de Tepuztlan,Tepoztlan,1,Cuatro Villas,Villa,0, ,531,0, ,Acuña 1985;Google Maps;INEGI: MEX_topoloc, ,-99.09928891,18.98571842,https://en.wikipedia.org/wiki/16th_century
+132,533,Tequepa,Tecpan,Tecpan,1, , ,0, ,533,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-100.6297222,17.22083333,https://en.wikipedia.org/wiki/16th_century
+247,534,Tequepatzingo,Tecpatzingo,Tepalcingo,1,Pueblos del Atlalnahuac (Tlalnahuac),Cabecera,0, ,534,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-98.84361111,18.59638889,https://en.wikipedia.org/wiki/16th_century
+32,536,Tequixquiac, ,Tequixquiac,1, , ,0, ,536,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.14472222,19.90944444,https://en.wikipedia.org/wiki/16th_century
+160,537,Tequizicapan,Tequizcisapan;Tequizcisapa;Teccizapan;Tequisisapa;Teccizapan,Teucizapán,1, ,Sujeto,223,Depends on,537,0, ,Acuña 1985;GeoNames MX, ,-99.71416,18.45682,https://en.wikipedia.org/wiki/16th_century
+66,538,Tetela, ,Tetela Del Rio,1, , ,0, ,538,0, ,Acuña 1985;Atlas 2010,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-100.077778,17.9825,https://en.wikipedia.org/wiki/16th_century
+166,539,Teteltzingo, ,Tetelcingo,1, ,Estancia,204,Depends on,539,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-98.93111111,18.87388889,https://en.wikipedia.org/wiki/16th_century
+105,541,Teteltzingo, ,Teocaltzingo,1, ,Estancia,513,Depends on,541,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.12527778,18.38861111,https://en.wikipedia.org/wiki/16th_century
+251,542,Cerro Tetetepetl,Tetetepetl, ,1,"Cerro de piedras""""",Hill,715,Near,542,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-100.0457288,18.59960236,https://en.wikipedia.org/wiki/16th_century
+505,544,Tetitzingo, , ,2,Dissapeared. Located half league to the east from the cabecera,Estancia,513,Depends on,544,0, ,Acuña 1985;Vazquez 1965: 37, ,-99.488658,18.28687,https://en.wikipedia.org/wiki/16th_century
+196,545,Tetlan,Tlaltzongo, ,1,Asiento de Tepuztlán, ,531, ,545,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.10099161,18.98855706,https://en.wikipedia.org/wiki/16th_century
+70,546,Tetlapanaloyan,Tetlapanaloya,Tlapanaloya,1, , ,0, ,546,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.09722222,19.93472222,https://en.wikipedia.org/wiki/16th_century
+233,547,Tetliztaca, ,Textitlac,1, , ,0, ,547,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.56861111,19.90222222,https://en.wikipedia.org/wiki/16th_century
+390,549,Tetzahuapan, ,¿San Juan Tizahuapan?,1, ,Sujeto,490, ,549,0, ,Acuña 1985;GeoNames_MX, ,-98.6654,20.0507,https://en.wikipedia.org/wiki/16th_century
+434,550,Tetzhuaque, , ,2,Dissapeared,Estancia,204, ,550,0, ,Acuña 1985;Allocated by research, ,-98.9571,18.582,https://en.wikipedia.org/wiki/16th_century
+324,551,Tetzilacaztla,Tetzilacastla,Tetzilacatlán,1, ,Sujeto,327, ,551,0, ,Acuña 1985;GeoNames_MX, ,-99.9767,18.3425,https://en.wikipedia.org/wiki/16th_century
+466,555,Teupan, , ,2,Dissapeared,Barrio,189, ,555,0, ,Acuña 1985;Allocated by research, ,-99.0405,19.6087,https://en.wikipedia.org/wiki/16th_century
+121,556,Teutenango, ,Tenango,1, , ,0, ,556,0, ,Acuña 1985;Google Maps;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.59170416,19.1028426,https://en.wikipedia.org/wiki/16th_century
+429,559,Texayaquica,Texayaquezan, ,2,Dissapeared,Sujeto,5, ,559,327, ,Acuña 1985;Allocated by research, ,-100.0726,18.4278,https://en.wikipedia.org/wiki/16th_century
+438,560,Cerro Texcalan,Texcalan;Texcala, ,2,Cerro Tlecuilco,Hill,6, ,560,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-98.817,18.9361,https://en.wikipedia.org/wiki/16th_century
+254,561,Cordillera Texcalcacahuatl,Texcalcacahuatl, ,1, ,Mountain Range,665,Contain,561,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=708,-100.1799006,17.66752817,https://en.wikipedia.org/wiki/16th_century
+482,562,Tezcacohuac, , ,2,Dissapeared,Barrio,195, ,562,0, ,Acuña 1985;, ,-98.6307,20.0177,https://en.wikipedia.org/wiki/16th_century
+515,564,Tezihuac, , ,2, ,Province,0, ,564,0, , ,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=271,-98.993483,18.608946,https://en.wikipedia.org/wiki/16th_century
+23,565,Tezontepec,Tezontepeque;Tathobo,Tezontepec,1, , ,0, ,565,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.27333333,20.19305556,https://en.wikipedia.org/wiki/16th_century
+142,566,Tianguiscolco,Tianguistzolco;Tiaguiscolco;Tianguiszolco,Tianquizolco,1, ,Sujeto,5,Depends on,566,0, ,Acuña 1985;Atlas 2010, ,-100.1625,18.402778,https://en.wikipedia.org/wiki/16th_century
+476,567,Tianguismanalco,Tianguizmanalco, ,2,Dissapeared,Pueblo,547, ,567,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.5565,19.8805,https://en.wikipedia.org/wiki/16th_century
+381,569,Tianquiztli, ,Parroquia de Todos los Santos,1,Cempoala and Huexutla pinturas,Local Market,0, ,569,0, ,Acuña 1985;Ballesteros 2005,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=229,-98.67,19.9154,https://en.wikipedia.org/wiki/16th_century
+465,570,Ticoman, , ,2,¿Ticoman?,Barrio,136, ,570,0, ,Acuña 1985;GeoNames_MX, ,-99.1316,19.5105,https://en.wikipedia.org/wiki/16th_century
+283,573,Sierra Tlacatepetl,Tlacatepetl, ,1, ,Mountain Range,153,Near,573,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=708,-100.0696857,17.39968598,https://en.wikipedia.org/wiki/16th_century
+29,574,Tlachinolticpac,Tlachinol,Tlanchinol,1, , ,0, ,574,0, ,Acuña 1985;GoogleMaps,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.66072691,20.98862585,https://en.wikipedia.org/wiki/16th_century
+475,576,Tlacopan,Tlacopa, ,2,Dissapeared,Pueblo,0, ,576,0, ,Acuña 1985;Ballesteros 2005,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.6785,19.8643,https://en.wikipedia.org/wiki/16th_century
+141,577,Serranía de Tlacotepeque,Serranía de Tlacotepec, ,1, , ,0, ,577,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.99292444,17.83454821,https://en.wikipedia.org/wiki/16th_century
+6,579,Tlacotepec,Tlacotepeque,Tlacotepec,1, ,Sujeto,651, ,579,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.97833333,17.79027778,https://en.wikipedia.org/wiki/16th_century
+410,580,Tlacotepetzingo, , ,2,Dissapeared,Estancia,55, ,580,0, ,Acuña 1985;Allocated by research, ,-99.94227,18.1359,https://en.wikipedia.org/wiki/16th_century
+112,581,Tlacotlalpilco,Tlacotlalpiltepec;Tlacutlalpilco,Tlacotlapilco,1, , ,0, ,581,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.21944444,20.37611111,https://en.wikipedia.org/wiki/16th_century
+215,582,Tlacocoxpan,Tlacoxpan,Tlacocuspan (Tlacocuspan Santa Cruz),1, ,Sujeto,715,Depends on,582,0, ,Acuña 1985;Atlas 2010, ,-100.318333,18.618889,https://en.wikipedia.org/wiki/16th_century
+280,585,Tlahuililpa,Tlahualilpa,Tlahuelilpa de Ocampo,1, , ,0, ,585,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.23194444,20.13166667,https://en.wikipedia.org/wiki/16th_century
+442,586,Cerro Tlahuiltepeque,Tlahuiltepeque, ,2,No name available,Hill,531, ,586,0, ,Acuña 1985;Brotherston 1998: 92,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.0799,18.9976,https://en.wikipedia.org/wiki/16th_century
+81,588,Tlalmanalco, ,Tlalmanalco,1, , ,0, ,588,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.8025,19.20444444,https://en.wikipedia.org/wiki/16th_century
+210,590,Tlaloc, , ,2, ,Hill,195,Near,590,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-98.62093616,20.0230788,https://en.wikipedia.org/wiki/16th_century
+257,593,Cordillera Tlamimilolpan,Tlamimilolpan;Tamjmjlolpa, ,2, ,Mountain Range,579,Near,593,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=708,-99.85871781,17.6845738,https://en.wikipedia.org/wiki/16th_century
+281,594,Tlanepantla,Tlalnepantla;Tlanepatlan;Tenepatlán,Tlanipatlan,1, , ,0, ,594,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.99944444,18.19472222,https://en.wikipedia.org/wiki/16th_century
+252,595,Cerro Tlapantepetl,Tlapantepetl, ,1,“Cerro quebrado”,Hill,178,Near,595,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.81704957,18.1361259,https://en.wikipedia.org/wiki/16th_century
+341,596,Tlapechco,Tlalpechco,Tlalpexco,1, ,Sujeto,715, ,596,0, ,Acuña 1985;GeoNames_MX, ,-99.9986,18.5036,https://en.wikipedia.org/wiki/16th_century
+47,598,Tlaquilpan, ,Tlaquilpan,1,Congregación de Cempoala,Cabecera,117, ,598,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-98.75138889,19.94305556,https://en.wikipedia.org/wiki/16th_century
+9,599,Tlataya, ,Tlatlaya,1, , ,0, ,599,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-100.2072222,18.61694444,https://en.wikipedia.org/wiki/16th_century
+379,600,Tlatecomulco,Tecocomulco;Tecocomolco;Tecomolco,San Mateo Tlajomulco,1, ,Sujeto,648, ,600,0, ,Acuña 1985;Ballesteros 2005: 62, ,-98.55236,19.8992,https://en.wikipedia.org/wiki/16th_century
+473,601,Tlatelulco,Xaltengo, ,2,Jaltenco,Barrio,676, ,601,0, ,"Acuña 1985;Enciclopedia de los Municipios del Estado de Mexico, Secretaria de Gobernacion 1988", ,-99.1126,19.7833,https://en.wikipedia.org/wiki/16th_century
+467,603,Tlateypan, , ,2,Dissapeared,Barrio,189, ,603,0, ,Acuña 1985;GeoNames_MX, ,-99.0548,19.6147,https://en.wikipedia.org/wiki/16th_century
+51,606,Tlaxcala, ,Tlaxcala,1, , ,0, ,606,0, ,Acuña 1985;Google Maps;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.23772243,19.31748594,https://en.wikipedia.org/wiki/16th_century
+43,611,Tlayacapan, ,Tlayacapan,1, , ,0, ,611,0, ,Acuña 1985;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.98420816,18.95537584,https://en.wikipedia.org/wiki/16th_century
+248,612,Tlayalaque, ,Tlayecac,1,Pueblos del Atlalnahuac (Tlalnahuac),Cabecera,0, ,612,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-98.88055556,18.75444444,https://en.wikipedia.org/wiki/16th_century
+383,614,Tlecaxtitlan, ,Cerro Tecajete,1, ,Hill,117, ,614,0, ,Acuña 1985;Ballesteros 2005,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-98.6094,19.936,https://en.wikipedia.org/wiki/16th_century
+98,616,Tlemaco, ,Tlamaco,1, , ,0, ,616,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.22916667,20.03444444,https://en.wikipedia.org/wiki/16th_century
+382,617,Tochatlauhco, ,Hacienda San Antonio Tochatlaco,1, ,Estancia,195, ,617,0, ,Acuña 1985;Ballesteros 1998, ,-98.573,19.9202,https://en.wikipedia.org/wiki/16th_century
+421,618,Tochopan, , ,2,¿Tuxpan?,Estancia,513, ,618,0, ,Acuña 1985;GeoNames_MX, ,-99.4787,18.3493,https://en.wikipedia.org/wiki/16th_century
+474,620,Toltengo, , ,2,San Sebastián Toltengo,Sujeto,676, ,620,0, ,Acuña 1985;Marcus et al. 1994: 78, ,-99.0556,19.7843,https://en.wikipedia.org/wiki/16th_century
+55,622,Toluca, ,Toluca,1, ,Villa,0, ,622,0, ,Acuña 1985;Google Maps;Tanck de Estrada 2005: Atlas 1800, ,-99.65722013,19.2915179,https://en.wikipedia.org/wiki/16th_century
+42,623,Valle de Toluca, , ,1, ,Valley,0, ,623,0, ,Acuña 1985;Google Maps,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=1197,-99.73634555,19.30230116,https://en.wikipedia.org/wiki/16th_century
+202,625,Tonalapa,Tonalapan,Tonalapa del Río,1, ,Estancia,157,Depends on,625,0, ,Acuña 1985;Google Maps, ,-99.691389,18.343333,https://en.wikipedia.org/wiki/16th_century
+428,626,Tonalpauhca,Tonalpouhcan;Tonalpouhca, ,2,Dissapeared,Sujeto,5, ,626,0, ,Acuña 1985;Allocated by research, ,-100.0831,18.4238,https://en.wikipedia.org/wiki/16th_century
+200,627,Cerro Tonaltepec,Tonaltepec, ,1, ,Hill,20157,Near,627,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-98.87531082,19.37643365,https://en.wikipedia.org/wiki/16th_century
+216,628,Cueva de Tonaltepec,Tonaltepec, ,2, ,Cave,20157,Near,628,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=183,-98.87412109,19.37518444,https://en.wikipedia.org/wiki/16th_century
+396,630,Tonzocahuelan, ,Tancazahuela,1, ,Estancia,208, ,630,0, ,Acuña 1985;Allocated by research, ,-98.4349,21.182,https://en.wikipedia.org/wiki/16th_century
+404,631,Minas de oro de Topila,Topila, ,2,Dissapeared,Sujeto,579, ,631,0, ,Acuña 1985;Allocated by research, ,-100.0072,17.7944,https://en.wikipedia.org/wiki/16th_century
+297,633,Totola, ,Totola,2,Between Tetela del Río and Zumpango, ,0, ,633,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.21934,17.6362,https://en.wikipedia.org/wiki/16th_century
+304,635,Tototzintlan, ,San Juan Totolcintla,1, ,Estancia,513, ,635,0, ,Acuña 1985;GeoNames_MX, ,-99.3271,17.9095,https://en.wikipedia.org/wiki/16th_century
+92,638,Tula, ,Tula,1, , ,0, ,638,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.34166667,20.05416667,https://en.wikipedia.org/wiki/16th_century
+46,640,Tulantzinco, ,Tulancingo,1, , ,0, ,640,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.36861111,20.08138889,https://en.wikipedia.org/wiki/16th_century
+74,642,Tutultepec,Tutultepeque,Totoltepec,1, ,Pueblo,0, ,642,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-100.0416667,18.27277778,https://en.wikipedia.org/wiki/16th_century
+327,643,Tuztla, ,Tuxtla Cuevillas,1, ,Sujeto,711, ,643,0, ,Acuña 1985;GeoNames_MX, ,-99.69521,18.385,https://en.wikipedia.org/wiki/16th_century
+331,644,Tzacatlan,Zacatlan,Zacatlancillo,1, ,Sujeto,327, ,644,0, ,Acuña 1985;GeoNames_MX, ,-99.9789,18.4098,https://en.wikipedia.org/wiki/16th_century
+481,646,Tzapotla, , ,2,Dissapeared,Barrio,195, ,646,0, ,Acuña 1985;GeoNames_MX, ,-98.6444,20.0114,https://en.wikipedia.org/wiki/16th_century
+151,647,Tzapotlan,Tzapotla,Zapotla,1,"It may be a pueblo, estancia or barrio dependant on Chimalhuacan", ,382,Depends on,647,0, ,Acuña 1985;Atlas 2010,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.958333,19.410278,https://en.wikipedia.org/wiki/16th_century
+86,648,Tzaquala, ,Zacuala,1,Congregación de Cempoala,Cabecera,117, ,648,0, ,Acuña 1985;Allocated by research, ,-98.66211784,19.91247891,https://en.wikipedia.org/wiki/16th_century
+235,649,Minas de Tzacualpa,Tzacualpa;Tzacualpan;Tzaqualpan;Tzaqlpan, ,1, ,Mining camp,0, ,649,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=685,-99.79299459,18.7189456,https://en.wikipedia.org/wiki/16th_century
+317,650,Tzatzamilco, ,Sasamulco,1, ,Estancia,513, ,650,0, ,Acuña 1985;GeoNames_MX, ,-99.5763,18.1592,https://en.wikipedia.org/wiki/16th_century
+115,651,Tzicaputzalco,Pindexo,Ixcapuzalco,1, , ,223,Depends on,651,0, ,Acuña 1985;Google Maps;INEGI: MEX_topoloc,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.88730961,18.51254739,https://en.wikipedia.org/wiki/16th_century
+113,652,Tzihuacyocan, ,Tizayuca,1, , ,0, ,652,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.97916667,19.84166667,https://en.wikipedia.org/wiki/16th_century
+26,656,Tzinhuilucan,Tzinhuiluca;Tzihuiquiluca;Tzihuiquilucan,Singuilucan,1, , ,0, ,656,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.51694444,19.96777778,https://en.wikipedia.org/wiki/16th_century
+345,657,Tzitzicaltepec,Tzitzicaztepec,Xixicastepec,1, ,Sujeto,715, ,657,0, ,Acuña 1985;GeoNames_MX, ,-99.96643,18.5252,https://en.wikipedia.org/wiki/16th_century
+386,659,Tzontecomatepec,Tzontecomatepetl,Cerro San Rafael,1,Cempoala pintura,Hill,0, ,659,0, ,Acuña 1985;Ballesteros 2005,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-98.5851,19.9542,https://en.wikipedia.org/wiki/16th_century
+299,660,Tzopilo oztoque, ,Zopilostoc,1, ,Sujeto,579, ,660,0, ,Acuña 1985;GeoNames_MX, ,-99.9922,17.74,https://en.wikipedia.org/wiki/16th_century
+171,662,Tzumpango,Zumpango,Camapo Partidor Zumpango,2, ,Estancia,460,Depends on,662,0, ,Acuña 1985;Atlas 2010, ,-98.963333,18.846111,https://en.wikipedia.org/wiki/16th_century
+44,663,Minas de Tzumpango,Minas de Zumpango;Tzumpango;Zumpango,Zumpango Del Rio,1, , ,0, ,663,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.52638889,17.65194444,https://en.wikipedia.org/wiki/16th_century
+33,665,Utatlan, ,Otlatlan,1, , ,0, ,665,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-100.21344,17.67206,https://en.wikipedia.org/wiki/16th_century
+288,666,Serranía Utlayucan,Utlayucan, ,2, ,Mountain Range,531,Depends on,666,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=708,-99.09620342,19.00416984,https://en.wikipedia.org/wiki/16th_century
+431,669,Xahualapan,Pahualapa;Zahualapa;Zahualapan;Zacualpan, ,2,Dissapeared,Sujeto,5, ,669,0, ,Acuña 1985;Allocated by research, ,-100.1495,18.4873,https://en.wikipedia.org/wiki/16th_century
+400,670,Xahualtepec, , ,2,Dissapeared,Estancia,153, ,670,0, ,Acuña 1985;Allocated by research, ,-100.1483,17.3032,https://en.wikipedia.org/wiki/16th_century
+480,671,Xalapan, , ,2,Dissapeared,Pueblo,0, ,671,0, ,Acuña 1985;Ballesteros 2005,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.5911,20.0112,https://en.wikipedia.org/wiki/16th_century
+296,672,Xalapan, ,Jalapa,1, ,Estancia,513, ,672,0, ,Acuña 1985;GeoNames_MX, ,-99.5966,17.6238,https://en.wikipedia.org/wiki/16th_century
+279,673,Xalla,Xala,Xala,1, ,Estancia,195,Depends on,673,0, ,Acuña 1985;Atlas 2010, ,-98.647778,19.763333,https://en.wikipedia.org/wiki/16th_century
+161,674,Xaloztoque, ,Xaloztoque,2, ,Sujeto,223,Depends on,674,0, ,Acuña 1985;NGA_CNS, ,-99.733333,18.516667,https://en.wikipedia.org/wiki/16th_century
+494,674,Xalostoque, ,Xalostoc,1, ,Sujeto,0, ,674,0, ,Acuña 1985;NGA_CNS, ,-99.731667,18.426667,https://en.wikipedia.org/wiki/16th_century
+109,675,Xalticpac, ,Atlicpac,1,"It may be a pueblo, estancia or barrio dependant on Chimalhuacan", ,382,Depends on,675,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.95138889,19.36833333,https://en.wikipedia.org/wiki/16th_century
+111,676,Xaltocan, ,Jaltocan,1, ,Sujeto,136,Depends on,676,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.05027778,19.72305555,https://en.wikipedia.org/wiki/16th_century
+91,677,Xantetelco, ,Jantetelco,1, , ,0, ,677,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.775,18.71666667,https://en.wikipedia.org/wiki/16th_century
+342,680,Ximahapan,Cimaapan,Chichimecapa,1, ,Sujeto,715, ,680,0, ,Acuña 1985;Ramirez 2006, ,-100.0293,18.5126,https://en.wikipedia.org/wiki/16th_century
+293,682,Xiquipila, ,Río Papagayo,1, ,River,47, ,682,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=960,-99.5656,17.0521,https://en.wikipedia.org/wiki/16th_century
+28,683,Xiuhtepec, ,San Pedro Zictepec,1, , ,0, ,683,0, ,Acuña 1985;Google Maps;Google Earth;unikloc10gw,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.577714,19.035606,https://en.wikipedia.org/wiki/16th_century
+149,684,Xochitepec, ,Xochitepec,1, ,Sujeto,538,Depends on,684,0, ,Acuña 1985;Atlas 2010, ,-100.091389,18.098056,https://en.wikipedia.org/wiki/16th_century
+370,686,Xochiyacac,Suchiaca,Xochiaca,1,"It may be a pueblo, estancia or barrio dependant on Chimalhuacan", ,382, ,686,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.9745,19.4137,https://en.wikipedia.org/wiki/16th_century
+277,688,Xonacatepeque, ,Jonacatepec,1,It is pueblo Atlalnahuac, ,0, ,688,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.8025,18.68277778,https://en.wikipedia.org/wiki/16th_century
+411,689,Xonacatzingo,Acatcinco, ,2,Dissapeared,Estancia,55, ,689,0, ,Acuña 1985;Allocated by research, ,-99.93,18.2507,https://en.wikipedia.org/wiki/16th_century
+323,690,Xuagalatengo,Xahualatenco;Xuagalatenco,Tule y Zacuapa,1, ,Sujeto,327, ,690,0, ,Acuña 1985;Ramirez 2006, ,-99.9192,18.3326,https://en.wikipedia.org/wiki/16th_century
+136,692,Yauhtepec, ,Yautepec,1,Cuatro Villas, ,0, ,692,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-99.06305556,18.88361111,https://en.wikipedia.org/wiki/16th_century
+24,693,Llano de Yauhtepec, , ,2, ,Plain,0, ,693,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=827,-99.04470112,18.91478451,https://en.wikipedia.org/wiki/16th_century
+439,694,Cerro Yohualichan,Yohualichan, ,2,Cerro Yohualtecatl,Hill,531, ,694,0, ,Acuña 1985;Maldonado 2000: 90,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-99.0815,18.9622,https://en.wikipedia.org/wiki/16th_century
+295,695,Yotlan, ,Iyotla,1, ,Estancia,513, ,695,0, ,Acuña 1985;GeoNames_MX, ,-99.7475,17.6225,https://en.wikipedia.org/wiki/16th_century
+469,697,Zacacalle, , ,2,Dissapeared,Barrio,189, ,697,0, ,Acuña 1985;GeoNames_MX, ,-99.0971,19.6322,https://en.wikipedia.org/wiki/16th_century
+496,699,Zacapalco, , ,2,Moved to modern Zacapalco,Estancia,204,Depends on,699,0, ,Acuña 1985;Allocated by research, ,-98.975222,18.580316,https://en.wikipedia.org/wiki/16th_century
+349,700,Zacapolco, ,Zacapalco,1, ,Estancia,513, ,700,0, ,Acuña 1985;GeoNames_MX, ,-99.4436,18.5381,https://en.wikipedia.org/wiki/16th_century
+268,701,Minas de Zacatecas, ,Cerro del Grillo,1, ,Mining Camp,0, ,701,0, ,Acuña 1985;Google Maps,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=685,-102.5795724,22.77667536,https://en.wikipedia.org/wiki/16th_century
+174,702,Zacatepeque, , ,2, ,Estancia,6,Depends on,702,0, ,Acuña 1985;Allocated by research, ,-98.862778,18.859722,https://en.wikipedia.org/wiki/16th_century
+192,703,Zacatlan, ,Zacatlán Grande,2, ,Sujeto,651,Depends on,703,0, ,Acuña 1985;GeoNames_MX, ,-99.85532,18.51589,https://en.wikipedia.org/wiki/16th_century
+180,705,Zahuatlan, ,Zahuatlán,2, ,Estancia,6,Depends on,705,0, ,Acuña 1985;Google Maps;GeoNames_MX, ,-98.84614,18.88008,https://en.wikipedia.org/wiki/16th_century
+184,707,Zoquiapan, , ,2, ,Estancia,6,Depends on,707,0, ,Acuña 1985;Allocated by research, ,-98.81049607,18.94145199,https://en.wikipedia.org/wiki/16th_century
+221,709,Minas de Zultepeque,Zultepeque,Sultepequito,1, ,Mining Camp,0, ,709,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=685,-100.0180556,18.80638889,https://en.wikipedia.org/wiki/16th_century
+350,710,Sierra de Zultepeque, ,Sierra La Goleta,1, ,Mountain Range,715, ,710,0, ,Acuña 1985;GeoNames_MX,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=708,-100.05853,18.6167,https://en.wikipedia.org/wiki/16th_century
+154,711,Iguala,Yohualan,Iguala De La Independencia,1, ,Cabecera,0, ,711,0, ,Acuña 1985;INEGI: MEX_topoloc, ,-99.54007548,18.34596387,https://en.wikipedia.org/wiki/16th_century
+445,713,Mexicanos, , ,2,Barrio de San Bartolomé Atlatlahuca,Barrio,77, ,713,0, ,Acuña 1985;GeoNames_MX, ,-99.613,19.0674,https://en.wikipedia.org/wiki/16th_century
+213,715,Alahuiztlan, ,Alahuixtlan,1, , ,0, ,715,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-100.0375,18.57277778,https://en.wikipedia.org/wiki/16th_century
+417,716,Tres Reyes Magos, , ,2,Dissapeared,Sujeto,473, ,716,0, ,Acuña 1985;GeoNames_MX, ,-99.3138,18.3406,https://en.wikipedia.org/wiki/16th_century
+246,717,Amaquemecan,Amaquemeca,Amecameca,1, ,Estancia,0, ,717,0, ,Acuña 1985;Ramirez 2006, ,-98.76277778,19.12777778,https://en.wikipedia.org/wiki/16th_century
+414,717,Tetanaco,Tetenanco, ,2,Dissapeared,Estancia,494, ,717,0, ,Acuña 1985;Ramirez 2006, ,-99.8691,18.3016,https://en.wikipedia.org/wiki/16th_century
+135,718,Toliman,Minas del Toliman;Tuliman,Toliman,1, ,Mining Camp,151,Depends on,718,0, ,Acuña 1985;Toponimos50k,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=685,-99.44694111,20.80841445,https://en.wikipedia.org/wiki/16th_century
+499,719,Axochitlan, , ,2,Dissapeared. Located  5 leagues to the south from the cabecera,Estancia,513,Depends on,719,0, ,Acuña 1985;Vazquez 1965: 36, ,-99.449062,18.050003,https://en.wikipedia.org/wiki/16th_century
+178,720,Tetlacuilucan, , ,2, ,Estancia,6,Depends on,720,0, ,Acuña 1985;Allocated by research, ,-98.871111,18.804722,https://en.wikipedia.org/wiki/16th_century
+514,720,Ahuatlan, , ,2,Dissapeared. Located 12 leagues to the SW from the cabecera.,Estancia,513,Depends on,720,0, ,Acuña 1985;Allocated by research, ,-99.75913,18.03253,https://en.wikipedia.org/wiki/16th_century
+181,721,Texcalan, ,Texcala,1, ,Estancia,6,Depends on,721,0, ,Acuña 1985;Google Maps;GeoNames_MX, ,-98.79642537,18.93485134,https://en.wikipedia.org/wiki/16th_century
+302,721,Suchipala, ,Xochipala,1, ,Estancia,513, ,721,0, ,Acuña 1985;Google Maps;GeoNames_MX, ,-99.642,17.8127,https://en.wikipedia.org/wiki/16th_century
+190,722,Atlapul, , ,2, ,Estancia,157,Near,722,0, ,Acuña 1985;GeoNames_MX, ,-98.76540066,19.39019755,https://en.wikipedia.org/wiki/16th_century
+307,722,Mezcala,Mzcala,Mezcala,1, ,Estancia,513, ,722,0, ,Acuña 1985;GeoNames_MX, ,-99.6003,17.9317,https://en.wikipedia.org/wiki/16th_century
+198,723,Río de Cimapan, , ,1, ,River,151,Near,723,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=960,-99.37778278,20.72981922,https://en.wikipedia.org/wiki/16th_century
+222,724,Chiautla, ,Chiautla,1, , ,0, ,724,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=850,-98.60361111,18.30027778,https://en.wikipedia.org/wiki/16th_century
+321,725,Tenantzingo,Tenanatzingo,Tenancingo,1, ,Estancia,494, ,725,0, ,Acuña 1985;GeoNames_MX;Ramirez 2006, ,-99.9297,18.2519,https://en.wikipedia.org/wiki/16th_century
+407,726,Yyetlan, , ,2,Dissapeared,Sujeto,538, ,726,0, ,Acuña 1985;Allocated by research, ,-100.00841,17.9216,https://en.wikipedia.org/wiki/16th_century
+320,727,Tlaxocotla, ,Tlajocotla,1, ,Estancia,55, ,727,0, ,Acuña 1985;GeoNames_MX, ,-99.92011,18.2496,https://en.wikipedia.org/wiki/16th_century
+258,729,Tepetlapan,Santiago,Tepetlapa,1, ,Estancia,531,Depends on,729,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800, ,-99.07555556,18.96472222,https://en.wikipedia.org/wiki/16th_century
+274,730,Real del Monte, ,Mineral del Monte,1, ,Mining Camp,0, ,730,0, ,Acuña 1985;Tanck de Estrada 2005: Atlas 1800,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=685,-98.671389,20.140278,https://en.wikipedia.org/wiki/16th_century
+493,800,Anecuilco, , ,2,Dissapeared,Cabecera,153,Near,800,0, ,Acuña 1985;Allocated by research, ,-99.943969,17.274777,https://en.wikipedia.org/wiki/16th_century
+172,1027,Ahuehuepa,Ahuehuepan,Ahuehuepan,1, ,Estancia,204,Depends on,1027,0, ,Acuña 1985;, ,-98.99005184,18.81967257,https://en.wikipedia.org/wiki/16th_century
+385,10157,Coatepec, ,Cerro Coatetetl,1, ,Sujeto,598, ,10157,0, ,Acuña 1985;GeoNames_MX, ,-98.7667,19.95,https://en.wikipedia.org/wiki/16th_century
+436,10359,Cerro Quauhtepeque,Quauhtepeque, ,2,Cerro Yoteco,Hill,6, ,10359,0, ,Acuña 1985;Allocated by research,https://www2.usgs.gov/science/records-matching.php?thcode=3&code=710,-98.8276,18.9249,https://en.wikipedia.org/wiki/16th_century
+147,10647,Tzapotlan, ,San Agustin Zapotlán,1, ,Sujeto,490,Depends on,10647,0, ,Acuña 1985;Atlas 2010, ,-98.715278,19.877222,https://en.wikipedia.org/wiki/16th_century
+56,20157,Coatepec,Coatepeque;Natividad de nuestra Señora;Natividad de Nuestra Señora Coatepec,Coatepec,1, ,Corregimiento,0, ,20157,0, ,Acuña 1985;Google Maps;Tanck de Estrada 2005: Atlas 1800, ,-98.84782168,19.38576424,https://en.wikipedia.org/wiki/16th_century
