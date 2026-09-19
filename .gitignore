@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pkl
+*.joblib
+*.parquet
+outputs/*
+Datos/**/*.zip
+.env
+.DS_Store
